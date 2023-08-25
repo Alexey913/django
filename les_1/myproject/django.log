@@ -1,0 +1,501 @@
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2940
+"GET /coin/ HTTP/1.1" 200 8
+"GET /coin/ HTTP/1.1" 200 10
+"GET /coin/ HTTP/1.1" 200 8
+"GET /coin/ HTTP/1.1" 200 8
+"GET /coin/ HTTP/1.1" 200 10
+"GET /coin/ HTTP/1.1" 200 8
+"GET /coin/ HTTP/1.1" 200 8
+"GET /coin/ HTTP/1.1" 200 8
+"GET /coin/ HTTP/1.1" 200 10
+"GET /cube/ HTTP/1.1" 200 80
+"GET /cube/ HTTP/1.1" 200 80
+"GET /cube/ HTTP/1.1" 200 80
+"GET /cube/ HTTP/1.1" 200 80
+"GET /cube/ HTTP/1.1" 200 80
+"GET /cube/ HTTP/1.1" 200 80
+"GET /cube/ HTTP/1.1" 200 80
+"GET /cube/ HTTP/1.1" 200 80
+"GET /cube/ HTTP/1.1" 200 80
+"GET /cube/ HTTP/1.1" 200 80
+"GET /cube/ HTTP/1.1" 200 80
+"GET /cube/ HTTP/1.1" 200 80
+"GET /cube/ HTTP/1.1" 200 80
+"GET /number/ HTTP/1.1" 200 64
+"GET /number/ HTTP/1.1" 200 64
+"GET /number/ HTTP/1.1" 200 64
+"GET /number/ HTTP/1.1" 200 64
+"GET /number/ HTTP/1.1" 200 63
+"GET /number/ HTTP/1.1" 200 64
+"GET /number/ HTTP/1.1" 200 64
+"GET /number/ HTTP/1.1" 200 64
+C:\Alex\GB\django\les_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+���������� ������
+���������: ['����', '�����'] - 2023-08-25 22:44:18.629673
+"GET /coin/ HTTP/1.1" 200 10
+���������� ������
+���������: ['����', '�����'] - 2023-08-25 22:44:21.825978
+"GET /coin/ HTTP/1.1" 200 8
+���������� ������
+���������: ['����', '�����'] - 2023-08-25 22:44:26.373489
+"GET /coin/ HTTP/1.1" 200 10
+���������� ������
+���������: ['����', '�����'] - 2023-08-25 22:44:27.146489
+"GET /coin/ HTTP/1.1" 200 8
+���������� ������
+���������: ['����', '�����'] - 2023-08-25 22:44:27.817833
+"GET /coin/ HTTP/1.1" 200 10
+���������� ������
+���������: ['����', '�����'] - 2023-08-25 22:44:28.413733
+"GET /coin/ HTTP/1.1" 200 10
+���������� ������
+���������: ['����', '�����'] - 2023-08-25 22:44:28.746433
+"GET /coin/ HTTP/1.1" 200 10
+���������� ������
+���������: ['����', '�����'] - 2023-08-25 22:44:28.992464
+"GET /coin/ HTTP/1.1" 200 10
+���������� ������
+���������: ['����', '�����'] - 2023-08-25 22:44:29.195267
+"GET /coin/ HTTP/1.1" 200 10
+���������� ������
+���������: ['����', '�����'] - 2023-08-25 22:44:29.445706
+"GET /coin/ HTTP/1.1" 200 8
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+���������� ������
+���������: ['����', '�����'] - 2023-08-25 22:46:01.484370
+"GET /coin/ HTTP/1.1" 200 17
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+���������� ������
+���������: ����� - 2023-08-25 22:46:31.724323
+"GET /coin/ HTTP/1.1" 200 19
+���������� ������
+���������: ����� - 2023-08-25 22:46:34.424929
+"GET /coin/ HTTP/1.1" 200 19
+���������� ������
+���������: ����� - 2023-08-25 22:46:35.430470
+"GET /coin/ HTTP/1.1" 200 19
+���������� ������
+���������: ���� - 2023-08-25 22:46:36.230308
+"GET /coin/ HTTP/1.1" 200 17
+���������� ������
+���������: ���� - 2023-08-25 22:46:36.824009
+"GET /coin/ HTTP/1.1" 200 17
+���������� ������
+���������: ����� - 2023-08-25 22:46:37.408723
+"GET /coin/ HTTP/1.1" 200 19
+���������� ������
+���������: ����� - 2023-08-25 22:46:37.926846
+"GET /coin/ HTTP/1.1" 200 19
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+������ �����
+���������: <div>-----</div><div>|x-x|</div><div>|x-x|</div><div>|x-x|</div><div>-----</div> - 2023-08-25 22:50:33.595546
+"GET /cube/ HTTP/1.1" 200 89
+������ �����
+���������: <div>-----</div><div>|x-x|</div><div>|x-x|</div><div>|x-x|</div><div>-----</div> - 2023-08-25 22:50:35.723121
+"GET /cube/ HTTP/1.1" 200 89
+������ �����
+���������: <div>-----</div><div>|---|</div><div>|-x-|</div><div>|---|</div><div>-----</div> - 2023-08-25 22:50:37.611692
+"GET /cube/ HTTP/1.1" 200 89
+������ �����
+���������: <div>-----</div><div>|--x|</div><div>|-x-|</div><div>|x--|</div><div>-----</div> - 2023-08-25 22:50:40.159610
+"GET /cube/ HTTP/1.1" 200 89
+������ �����
+���������: <div>-----</div><div>|--x|</div><div>|---|</div><div>|x--|</div><div>-----</div> - 2023-08-25 22:50:42.029574
+"GET /cube/ HTTP/1.1" 200 89
+������ �����
+���������: <div>-----</div><div>|x-x|</div><div>|x-x|</div><div>|x-x|</div><div>-----</div> - 2023-08-25 22:50:43.180213
+"GET /cube/ HTTP/1.1" 200 89
+������ �����
+���������: <div>-----</div><div>|x-x|</div><div>|x-x|</div><div>|x-x|</div><div>-----</div> - 2023-08-25 22:50:43.971888
+"GET /cube/ HTTP/1.1" 200 89
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+������ �����
+���������: 3 - 2023-08-25 22:51:34.289302
+"GET /cube/ HTTP/1.1" 200 89
+������ �����
+���������: 3 - 2023-08-25 22:51:38.162093
+"GET /cube/ HTTP/1.1" 200 89
+������ �����
+���������: 4 - 2023-08-25 22:51:39.824501
+"GET /cube/ HTTP/1.1" 200 89
+������ �����
+���������: 6 - 2023-08-25 22:51:41.547179
+"GET /cube/ HTTP/1.1" 200 89
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /number HTTP/1.1" 301 0
+����������� ��������� �����
+5 - 2023-08-25 22:52:53.359868
+"GET /number/ HTTP/1.1" 200 63
+����������� ��������� �����
+36 - 2023-08-25 22:52:57.855317
+"GET /number/ HTTP/1.1" 200 64
+����������� ��������� �����
+87 - 2023-08-25 22:52:59.886675
+"GET /number/ HTTP/1.1" 200 64
+����������� ��������� �����
+1 - 2023-08-25 22:53:00.901028
+"GET /number/ HTTP/1.1" 200 63
+����������� ��������� �����
+17 - 2023-08-25 22:53:01.812599
+"GET /number/ HTTP/1.1" 200 64
+����������� ��������� �����
+21 - 2023-08-25 22:53:02.581222
+"GET /number/ HTTP/1.1" 200 64
+����������� ��������� �����
+59 - 2023-08-25 22:53:03.217237
+"GET /number/ HTTP/1.1" 200 64
+����������� ��������� �����
+10 - 2023-08-25 22:53:03.787862
+"GET /number/ HTTP/1.1" 200 64
+C:\Alex\GB\django\les_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+����������� ��������� �����
+8 - 2023-08-25 23:10:53.559960
+"GET /number/ HTTP/1.1" 200 63
+����������� ��������� �����
+8 - 2023-08-25 23:10:58.890726
+"GET /number/ HTTP/1.1" 200 63
+����������� ��������� �����
+56 - 2023-08-25 23:11:00.853026
+"GET /number/ HTTP/1.1" 200 64
+����������� ��������� �����
+79 - 2023-08-25 23:11:09.080085
+"GET /number/ HTTP/1.1" 200 64
+����������� ��������� �����
+18 - 2023-08-25 23:11:11.387669
+"GET /number/ HTTP/1.1" 200 64
+- Broken pipe from ('127.0.0.1', 50535)
+C:\Alex\GB\django\les_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+����������� ��������� �����
+68 - 2023-08-25 23:14:01.997056
+"GET /number/ HTTP/1.1" 200 64
+����������� ��������� �����
+61 - 2023-08-25 23:14:02.963456
+"GET /number/ HTTP/1.1" 200 64
+C:\Alex\GB\django\les_1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+����������� ��������� �����
+38 - 2023-08-25 23:15:20.527971
+"GET /number/ HTTP/1.1" 200 64
+C:\Alex\GB\django\les_1\myproject\myproject\settings.py changed, reloading.
+INFO 2023-08-25 23:16:33,353 autoreload 14120 13428 Watching for file changes with StatReloader
+INFO 2023-08-25 23:16:38,365 views 14120 9556 ����������� ��������� �����
+INFO 2023-08-25 23:16:38,366 views 14120 9556 10 - 2023-08-25 23:16:38.366261
+INFO 2023-08-25 23:16:38,368 basehttp 14120 9556 "GET /number/ HTTP/1.1" 200 64
+INFO 2023-08-25 23:17:58,037 basehttp 14120 5256 - Broken pipe from ('127.0.0.1', 50808)
+INFO 2023-08-25 23:20:03,547 autoreload 14120 13428 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:20:04,002 autoreload 17052 4544 Watching for file changes with StatReloader
+INFO 2023-08-25 23:20:07,379 autoreload 17052 4544 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:20:07,799 autoreload 6420 13924 Watching for file changes with StatReloader
+INFO 2023-08-25 23:20:10,151 autoreload 6420 13924 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:20:10,580 autoreload 12944 16832 Watching for file changes with StatReloader
+INFO 2023-08-25 23:20:12,935 autoreload 12944 16832 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:20:13,408 autoreload 15588 11496 Watching for file changes with StatReloader
+INFO 2023-08-25 23:20:17,863 autoreload 15588 11496 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:20:18,339 autoreload 12084 5172 Watching for file changes with StatReloader
+INFO 2023-08-25 23:20:22,724 autoreload 12084 5172 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:20:23,246 autoreload 14380 9392 Watching for file changes with StatReloader
+ERROR 2023-08-25 23:20:29,413 log 14380 16740 Internal Server Error: /number/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_1\myproject\newapp\views.py", line 32, in number
+    logger.info('����������� ��������� �����'.encode('cp1251').decode('utf-8'))
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte
+ERROR 2023-08-25 23:20:29,418 basehttp 14380 16740 "GET /number/ HTTP/1.1" 500 67815
+INFO 2023-08-25 23:20:56,782 autoreload 14380 9392 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:20:57,315 autoreload 12240 13024 Watching for file changes with StatReloader
+INFO 2023-08-25 23:21:00,137 views 12240 13632 ����������� ��������� �����
+INFO 2023-08-25 23:21:00,138 views 12240 13632 34 - 2023-08-25 23:21:00.138401
+INFO 2023-08-25 23:21:00,141 basehttp 12240 13632 "GET /number/ HTTP/1.1" 200 64
+INFO 2023-08-25 23:21:08,073 autoreload 12240 13024 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:21:08,505 autoreload 13044 10776 Watching for file changes with StatReloader
+INFO 2023-08-25 23:21:10,768 autoreload 13044 10776 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:21:11,198 autoreload 17184 9568 Watching for file changes with StatReloader
+INFO 2023-08-25 23:21:12,516 autoreload 17184 9568 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:21:12,962 autoreload 16904 17196 Watching for file changes with StatReloader
+INFO 2023-08-25 23:21:17,365 autoreload 16904 17196 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:21:17,913 autoreload 12492 3344 Watching for file changes with StatReloader
+INFO 2023-08-25 23:21:20,568 views 12492 1180 ����������� ��������� �����
+INFO 2023-08-25 23:21:20,569 views 12492 1180 45 - 2023-08-25 23:21:20.569565
+INFO 2023-08-25 23:21:20,571 basehttp 12492 1180 "GET /number/ HTTP/1.1" 200 64
+INFO 2023-08-25 23:21:21,440 views 12492 1180 ����������� ��������� �����
+INFO 2023-08-25 23:21:21,441 views 12492 1180 9 - 2023-08-25 23:21:21.441407
+INFO 2023-08-25 23:21:21,443 basehttp 12492 1180 "GET /number/ HTTP/1.1" 200 63
+INFO 2023-08-25 23:21:32,886 views 12492 1180 ����������� ��������� �����
+INFO 2023-08-25 23:21:32,889 views 12492 1180 94 - 2023-08-25 23:21:32.889294
+INFO 2023-08-25 23:21:32,890 basehttp 12492 1180 "GET /number/ HTTP/1.1" 200 64
+INFO 2023-08-25 23:22:22,562 autoreload 12492 3344 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:22:23,066 autoreload 13580 17004 Watching for file changes with StatReloader
+INFO 2023-08-25 23:22:27,365 autoreload 13580 17004 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:22:27,836 autoreload 12164 7596 Watching for file changes with StatReloader
+INFO 2023-08-25 23:22:32,254 autoreload 12164 7596 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:22:32,697 autoreload 9232 5964 Watching for file changes with StatReloader
+INFO 2023-08-25 23:22:34,974 autoreload 9232 5964 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:22:35,450 autoreload 16424 1312 Watching for file changes with StatReloader
+INFO 2023-08-25 23:22:36,647 autoreload 16424 1312 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:22:37,083 autoreload 4572 14800 Watching for file changes with StatReloader
+INFO 2023-08-25 23:22:41,450 autoreload 4572 14800 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:22:42,009 autoreload 18244 8308 Watching for file changes with StatReloader
+INFO 2023-08-25 23:22:46,595 views 18244 1652 '\u0412\u044b\u0447\u0438\u0441\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e'
+INFO 2023-08-25 23:22:46,597 views 18244 1652 29 - 2023-08-25 23:22:46.597257
+INFO 2023-08-25 23:22:46,600 basehttp 18244 1652 "GET /number/ HTTP/1.1" 200 64
+INFO 2023-08-25 23:22:50,039 views 18244 1652 '\u0412\u044b\u0447\u0438\u0441\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e'
+INFO 2023-08-25 23:22:50,040 views 18244 1652 99 - 2023-08-25 23:22:50.040046
+INFO 2023-08-25 23:22:50,042 basehttp 18244 1652 "GET /number/ HTTP/1.1" 200 64
+INFO 2023-08-25 23:23:10,300 autoreload 18244 8308 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:23:10,734 autoreload 6680 9480 Watching for file changes with StatReloader
+INFO 2023-08-25 23:23:14,057 autoreload 6680 9480 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:23:14,524 autoreload 9136 9192 Watching for file changes with StatReloader
+INFO 2023-08-25 23:23:16,912 autoreload 9136 9192 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:23:17,385 autoreload 16592 11004 Watching for file changes with StatReloader
+INFO 2023-08-25 23:23:20,799 autoreload 16592 11004 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:23:21,222 autoreload 15188 12880 Watching for file changes with StatReloader
+INFO 2023-08-25 23:23:24,796 views 15188 10600 b"'\\u0412\\u044b\\u0447\\u0438\\u0441\\u043b\\u044f\\u0435\\u0442\\u0441\\u044f \\u0441\\u043b\\u0443\\u0447\\u0430\\u0439\\u043d\\u043e\\u0435 \\u0447\\u0438\\u0441\\u043b\\u043e'"
+INFO 2023-08-25 23:23:24,798 views 15188 10600 81 - 2023-08-25 23:23:24.798064
+INFO 2023-08-25 23:23:24,801 basehttp 15188 10600 "GET /number/ HTTP/1.1" 200 64
+INFO 2023-08-25 23:23:25,786 views 15188 10600 b"'\\u0412\\u044b\\u0447\\u0438\\u0441\\u043b\\u044f\\u0435\\u0442\\u0441\\u044f \\u0441\\u043b\\u0443\\u0447\\u0430\\u0439\\u043d\\u043e\\u0435 \\u0447\\u0438\\u0441\\u043b\\u043e'"
+INFO 2023-08-25 23:23:25,788 views 15188 10600 19 - 2023-08-25 23:23:25.787978
+INFO 2023-08-25 23:23:25,789 basehttp 15188 10600 "GET /number/ HTTP/1.1" 200 64
+INFO 2023-08-25 23:23:47,516 autoreload 15188 12880 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:23:48,070 autoreload 13000 9864 Watching for file changes with StatReloader
+INFO 2023-08-25 23:23:51,522 autoreload 13000 9864 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:23:51,943 autoreload 2924 9176 Watching for file changes with StatReloader
+INFO 2023-08-25 23:23:54,340 autoreload 2924 9176 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:23:54,929 autoreload 14200 10020 Watching for file changes with StatReloader
+INFO 2023-08-25 23:23:58,167 autoreload 14200 10020 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:23:58,657 autoreload 17056 11492 Watching for file changes with StatReloader
+INFO 2023-08-25 23:24:05,163 autoreload 17056 11492 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:24:05,605 autoreload 5060 12328 Watching for file changes with StatReloader
+INFO 2023-08-25 23:24:06,958 autoreload 5060 12328 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:24:07,413 autoreload 11496 18216 Watching for file changes with StatReloader
+INFO 2023-08-25 23:24:08,781 autoreload 11496 18216 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:24:09,191 autoreload 7768 3736 Watching for file changes with StatReloader
+INFO 2023-08-25 23:24:12,587 autoreload 7768 3736 C:\Alex\GB\django\les_1\myproject\newapp\views.py changed, reloading.
+INFO 2023-08-25 23:24:13,007 autoreload 17632 3844 Watching for file changes with StatReloader
+INFO 2023-08-25 23:25:13,291 autoreload 17632 3844 C:\Alex\GB\django\les_1\myproject\myproject\settings.py changed, reloading.
+INFO 2023-08-25 23:25:30,971 autoreload 16096 8056 Watching for file changes with StatReloader
+INFO 2023-08-25 23:25:50,349 views 16096 15524 Вычисляется случайное число
+INFO 2023-08-25 23:25:50,349 views 16096 15524 2 - 2023-08-25 23:25:50.349837
+INFO 2023-08-25 23:25:50,350 basehttp 16096 15524 "GET /number/ HTTP/1.1" 200 63
+INFO 2023-08-25 23:25:53,240 views 16096 15524 Вычисляется случайное число
+INFO 2023-08-25 23:25:53,241 views 16096 15524 32 - 2023-08-25 23:25:53.241142
+INFO 2023-08-25 23:25:53,243 basehttp 16096 15524 "GET /number/ HTTP/1.1" 200 64
+INFO 2023-08-25 23:26:10,090 views 16096 15524 Брошен кубик
+INFO 2023-08-25 23:26:10,091 views 16096 15524 Выпадение: 5 - 2023-08-25 23:26:10.091327
+INFO 2023-08-25 23:26:10,092 basehttp 16096 15524 "GET /cube/ HTTP/1.1" 200 89
+INFO 2023-08-25 23:26:13,320 views 16096 15524 Брошен кубик
+INFO 2023-08-25 23:26:13,321 views 16096 15524 Выпадение: 1 - 2023-08-25 23:26:13.321711
+INFO 2023-08-25 23:26:13,323 basehttp 16096 15524 "GET /cube/ HTTP/1.1" 200 89
+INFO 2023-08-25 23:35:23,680 autoreload 3420 18768 Watching for file changes with StatReloader
+INFO 2023-08-25 23:35:25,447 views 3420 9360 Брошен кубик
+INFO 2023-08-25 23:35:25,448 views 3420 9360 Выпадение: 6 - 2023-08-25 23:35:25.448437
+INFO 2023-08-25 23:35:25,450 basehttp 3420 9360 "GET /cube/ HTTP/1.1" 200 89
+INFO 2023-08-25 23:35:29,857 basehttp 3420 9360 "GET / HTTP/1.1" 200 13
+INFO 2023-08-25 23:36:25,785 basehttp 3420 6580 - Broken pipe from ('127.0.0.1', 51181)
+INFO 2023-08-25 23:36:25,806 basehttp 3420 11716 - Broken pipe from ('127.0.0.1', 51183)
+WARNING 2023-08-25 23:43:13,589 log 3420 10944 Not Found: /main
+WARNING 2023-08-25 23:43:13,591 basehttp 3420 10944 "GET /main HTTP/1.1" 404 2919
+INFO 2023-08-25 23:44:10,132 autoreload 3420 18768 C:\Alex\GB\django\les_1\myproject\myproject\urls.py changed, reloading.
+INFO 2023-08-25 23:44:10,645 autoreload 15752 9940 Watching for file changes with StatReloader
+INFO 2023-08-25 23:44:13,004 autoreload 15752 9940 C:\Alex\GB\django\les_1\myproject\myproject\urls.py changed, reloading.
+INFO 2023-08-25 23:44:13,489 autoreload 13072 10968 Watching for file changes with StatReloader
+INFO 2023-08-25 23:44:43,680 autoreload 5776 18312 Watching for file changes with StatReloader
+INFO 2023-08-25 23:44:54,693 autoreload 17296 5660 Watching for file changes with StatReloader
+INFO 2023-08-25 23:46:28,433 autoreload 17296 5660 C:\Alex\GB\django\les_1\myproject\hwapp\urls.py changed, reloading.
+INFO 2023-08-25 23:46:28,968 autoreload 14012 5084 Watching for file changes with StatReloader
+INFO 2023-08-25 23:46:31,175 autoreload 14012 5084 C:\Alex\GB\django\les_1\myproject\hwapp\urls.py changed, reloading.
+INFO 2023-08-25 23:46:31,633 autoreload 8912 5060 Watching for file changes with StatReloader
+INFO 2023-08-25 23:46:36,027 autoreload 8912 5060 C:\Alex\GB\django\les_1\myproject\hwapp\urls.py changed, reloading.
+INFO 2023-08-25 23:46:36,620 autoreload 10796 6764 Watching for file changes with StatReloader
+INFO 2023-08-25 23:46:48,225 autoreload 10796 6764 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:46:48,733 autoreload 11672 14200 Watching for file changes with StatReloader
+INFO 2023-08-25 23:46:55,077 autoreload 11672 14200 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:46:55,538 autoreload 15772 18524 Watching for file changes with StatReloader
+INFO 2023-08-25 23:46:56,766 autoreload 15772 18524 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:46:57,281 autoreload 4640 7968 Watching for file changes with StatReloader
+INFO 2023-08-25 23:47:04,675 autoreload 4640 7968 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:47:05,108 autoreload 17972 1432 Watching for file changes with StatReloader
+INFO 2023-08-25 23:47:14,553 autoreload 17972 1432 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:47:15,015 autoreload 17548 11376 Watching for file changes with StatReloader
+INFO 2023-08-25 23:47:19,333 autoreload 17548 11376 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:47:19,879 autoreload 16992 14116 Watching for file changes with StatReloader
+INFO 2023-08-25 23:47:25,225 autoreload 16992 14116 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:47:25,674 autoreload 18600 14680 Watching for file changes with StatReloader
+INFO 2023-08-25 23:47:26,900 autoreload 18600 14680 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:47:27,324 autoreload 17400 14168 Watching for file changes with StatReloader
+INFO 2023-08-25 23:47:38,772 autoreload 17400 14168 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:47:39,235 autoreload 3632 18696 Watching for file changes with StatReloader
+INFO 2023-08-25 23:47:40,452 autoreload 3632 18696 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:47:40,886 autoreload 6516 11352 Watching for file changes with StatReloader
+INFO 2023-08-25 23:47:44,154 autoreload 6516 11352 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:47:44,562 autoreload 13140 11484 Watching for file changes with StatReloader
+INFO 2023-08-25 23:47:47,824 autoreload 13140 11484 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:47:48,258 autoreload 16588 4620 Watching for file changes with StatReloader
+INFO 2023-08-25 23:47:53,591 autoreload 16588 4620 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:47:54,089 autoreload 15580 19128 Watching for file changes with StatReloader
+INFO 2023-08-25 23:48:03,538 autoreload 15580 19128 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:48:03,948 autoreload 9496 10440 Watching for file changes with StatReloader
+INFO 2023-08-25 23:48:09,264 autoreload 9496 10440 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:48:09,735 autoreload 15412 14660 Watching for file changes with StatReloader
+INFO 2023-08-25 23:48:11,982 autoreload 15412 14660 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:48:12,489 autoreload 7012 9824 Watching for file changes with StatReloader
+INFO 2023-08-25 23:48:17,071 basehttp 7012 1244 "GET /main HTTP/1.1" 301 0
+INFO 2023-08-25 23:48:17,089 basehttp 7012 12692 "GET /main/ HTTP/1.1" 200 195
+INFO 2023-08-25 23:48:27,265 autoreload 7012 9824 C:\Alex\GB\django\les_1\myproject\hwapp\views.py changed, reloading.
+INFO 2023-08-25 23:48:27,907 autoreload 12492 14704 Watching for file changes with StatReloader
+INFO 2023-08-25 23:48:31,375 basehttp 12492 17656 "GET /main/ HTTP/1.1" 200 195
+INFO 2023-08-25 23:48:37,458 basehttp 12492 17656 "GET /myself HTTP/1.1" 301 0
+INFO 2023-08-25 23:48:37,478 basehttp 12492 10840 "GET /myself/ HTTP/1.1" 200 186
+INFO 2023-08-25 23:49:38,816 basehttp 12492 10180 - Broken pipe from ('127.0.0.1', 51401)
+INFO 2023-08-25 23:49:55,979 autoreload 12492 14704 C:\Alex\GB\django\les_1\myproject\myproject\settings.py changed, reloading.
+INFO 2023-08-25 23:49:56,454 autoreload 4376 1312 Watching for file changes with StatReloader
+INFO 2023-08-25 23:49:58,804 autoreload 4376 1312 C:\Alex\GB\django\les_1\myproject\myproject\settings.py changed, reloading.
+INFO 2023-08-25 23:49:59,371 autoreload 16684 2544 Watching for file changes with StatReloader
+INFO 2023-08-25 23:50:03,749 autoreload 16684 2544 C:\Alex\GB\django\les_1\myproject\myproject\settings.py changed, reloading.
+INFO 2023-08-25 23:50:04,245 autoreload 11756 9920 Watching for file changes with StatReloader
+INFO 2023-08-25 23:50:08,986 views 11756 10772 Посещение страницы обо мне - 2023-08-25 23:50:08.986267
+INFO 2023-08-25 23:50:08,989 basehttp 11756 10772 "GET /myself/ HTTP/1.1" 200 186
+INFO 2023-08-25 23:50:39,414 views 11756 10772 Посещение главной страницы - 2023-08-25 23:50:39.414175
+INFO 2023-08-25 23:50:39,415 basehttp 11756 10772 "GET /main/ HTTP/1.1" 200 195
+INFO 2023-08-25 23:50:43,785 views 11756 10772 Посещение главной страницы - 2023-08-25 23:50:43.785705
+INFO 2023-08-25 23:50:43,787 basehttp 11756 10772 "GET /main/ HTTP/1.1" 200 195
+INFO 2023-08-25 23:50:44,695 views 11756 10772 Посещение главной страницы - 2023-08-25 23:50:44.694130
+INFO 2023-08-25 23:50:44,698 basehttp 11756 10772 "GET /main/ HTTP/1.1" 200 195
+INFO 2023-08-25 23:50:45,286 views 11756 10772 Посещение главной страницы - 2023-08-25 23:50:45.286364
+INFO 2023-08-25 23:50:45,289 basehttp 11756 10772 "GET /main/ HTTP/1.1" 200 195
