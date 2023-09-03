@@ -1,0 +1,35 @@
+{% extends 'myapp/base.html' %}
+
+
+{% block title %}
+    {{ post.title }}
+{% endblock %}
+
+{% block content %}
+<h1>{{ post.title }}</h1>
+<p>{{ post.post_body }}</p>
+
+
+<h2>Комментарии</h2>
+
+    <table align="justify">
+        {% for comment in comments %}
+            <tr>
+                <td>{{ comment.comment }}</td>
+            </tr>
+            <tr align="right">
+                <td>
+                    Автор - {{ comment.author }}&nbsp;
+                    {% if comment.date_create != comment.date_change %}
+                        Изменено: {{ comment.date_change }}
+                    {% endif %}
+                </td>
+            </tr>
+        {% endfor %}
+    </table>
+
+{% endblock %}
+
+{% block enter_1 %}
+<a href="{% url 'main' %}">Здесь можно перейти на главную страницу</a>
+{% endblock %}
