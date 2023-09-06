@@ -1,0 +1,42 @@
+INFO 2023-09-06 23:26:20,761 autoreload 10184 12000 Watching for file changes with StatReloader
+INFO 2023-09-06 23:26:23,516 basehttp 10184 8140 "GET /random/ HTTP/1.1" 200 2258
+INFO 2023-09-06 23:26:25,724 basehttp 10184 8140 "POST /random/ HTTP/1.1" 200 2342
+INFO 2023-09-06 23:27:48,350 basehttp 10184 8140 "GET /random/ HTTP/1.1" 200 4389
+INFO 2023-09-06 23:27:58,970 basehttp 10184 8140 "POST /random/ HTTP/1.1" 200 8295
+INFO 2023-09-06 23:28:42,505 autoreload 10184 12000 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-06 23:28:43,028 autoreload 15692 18188 Watching for file changes with StatReloader
+INFO 2023-09-06 23:28:45,419 autoreload 15692 18188 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-06 23:28:45,888 autoreload 2828 17520 Watching for file changes with StatReloader
+INFO 2023-09-06 23:29:28,221 autoreload 756 15364 Watching for file changes with StatReloader
+INFO 2023-09-06 23:29:33,197 basehttp 756 11468 "GET /random/ HTTP/1.1" 200 4416
+INFO 2023-09-06 23:29:39,983 basehttp 756 11468 "POST /random/ HTTP/1.1" 200 4694
+INFO 2023-09-06 23:30:41,920 autoreload 756 15364 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-06 23:30:42,544 autoreload 3000 1180 Watching for file changes with StatReloader
+INFO 2023-09-06 23:30:43,950 autoreload 3000 1180 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-06 23:30:44,485 autoreload 17108 11360 Watching for file changes with StatReloader
+INFO 2023-09-06 23:30:45,845 autoreload 17108 11360 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-06 23:30:46,333 autoreload 8652 9044 Watching for file changes with StatReloader
+INFO 2023-09-06 23:30:49,782 autoreload 8652 9044 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-06 23:30:50,259 autoreload 18880 17312 Watching for file changes with StatReloader
+INFO 2023-09-06 23:30:54,698 autoreload 18880 17312 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-06 23:30:55,197 autoreload 10176 11340 Watching for file changes with StatReloader
+INFO 2023-09-06 23:31:01,638 autoreload 10176 11340 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-06 23:31:02,221 autoreload 11608 8204 Watching for file changes with StatReloader
+INFO 2023-09-06 23:31:27,058 basehttp 11608 14472 "POST /random/ HTTP/1.1" 200 4670
+INFO 2023-09-06 23:31:29,171 basehttp 11608 14472 "GET /random/ HTTP/1.1" 200 4426
+INFO 2023-09-06 23:31:36,124 basehttp 11608 14472 "POST /random/ HTTP/1.1" 200 4554
+INFO 2023-09-06 23:31:40,034 basehttp 11608 14472 "GET /random/ HTTP/1.1" 200 4426
+INFO 2023-09-06 23:32:34,817 basehttp 11608 14472 "GET /random/ HTTP/1.1" 200 4442
+INFO 2023-09-06 23:32:41,084 basehttp 11608 14472 "POST /random/ HTTP/1.1" 200 7376
+INFO 2023-09-06 23:33:14,612 basehttp 11608 14472 "GET /random/ HTTP/1.1" 200 4442
+INFO 2023-09-06 23:33:18,020 basehttp 11608 14472 "POST /random/ HTTP/1.1" 200 4708
+INFO 2023-09-06 23:34:26,464 autoreload 11608 8204 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-06 23:34:26,966 autoreload 2636 11872 Watching for file changes with StatReloader
+INFO 2023-09-06 23:34:28,289 autoreload 2636 11872 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-06 23:34:28,751 autoreload 10332 10036 Watching for file changes with StatReloader
+INFO 2023-09-06 23:34:30,126 autoreload 10332 10036 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-06 23:34:30,572 autoreload 14612 7888 Watching for file changes with StatReloader
+INFO 2023-09-06 23:34:54,501 autoreload 14612 7888 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-06 23:34:55,044 autoreload 20524 19820 Watching for file changes with StatReloader
+INFO 2023-09-06 23:35:01,954 basehttp 20524 8124 "GET /random/ HTTP/1.1" 200 4442
+INFO 2023-09-06 23:35:05,786 basehttp 20524 8124 "POST /random/ HTTP/1.1" 200 7658
