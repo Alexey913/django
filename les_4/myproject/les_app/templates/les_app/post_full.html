@@ -1,4 +1,4 @@
-{% extends 'myapp/base.html' %}
+{% extends 'les_app/base.html' %}
 
 
 {% block title %}
@@ -15,17 +15,26 @@
     <table align="justify">
         {% for comment in comments %}
             <tr>
-                <td>{{ comment.comment }}</td>
+                <td><b>{{ comment.comment }}</b></td>
             </tr>
             <tr align="right">
                 <td>
-                    Автор - {{ comment.author }}&nbsp;
+                    <i><b>Автор - {{ comment.author }}&nbsp;</b></i>
+                </td>
+                <td align="left">
                     {% if comment.date_create != comment.date_change %}
-                        Изменено: {{ comment.date_change }}
+                        <i>Изменено: {{ comment.date_change }}</i>
                     {% endif %}
                 </td>
             </tr>
         {% endfor %}
     </table>
+    </br>
+    <h3> Добавить комментарий </h3>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="Опубликовать">
+    </form>
 
 {% endblock %}

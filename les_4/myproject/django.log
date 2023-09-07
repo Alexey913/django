@@ -40,3 +40,1491 @@ INFO 2023-09-06 23:34:54,501 autoreload 14612 7888 C:\Alex\GB\django\les_4\mypro
 INFO 2023-09-06 23:34:55,044 autoreload 20524 19820 Watching for file changes with StatReloader
 INFO 2023-09-06 23:35:01,954 basehttp 20524 8124 "GET /random/ HTTP/1.1" 200 4442
 INFO 2023-09-06 23:35:05,786 basehttp 20524 8124 "POST /random/ HTTP/1.1" 200 7658
+INFO 2023-09-07 21:26:04,426 autoreload 7604 11432 Watching for file changes with StatReloader
+INFO 2023-09-07 21:27:22,623 autoreload 7840 17916 Watching for file changes with StatReloader
+INFO 2023-09-07 21:28:01,565 autoreload 7840 17916 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:28:02,416 autoreload 19464 12984 Watching for file changes with StatReloader
+WARNING 2023-09-07 21:28:12,434 log 19464 15784 Not Found: /
+WARNING 2023-09-07 21:28:12,437 basehttp 19464 15784 "GET / HTTP/1.1" 404 2618
+WARNING 2023-09-07 21:28:13,428 log 19464 15784 Not Found: /favicon.ico
+WARNING 2023-09-07 21:28:13,440 basehttp 19464 15784 "GET /favicon.ico HTTP/1.1" 404 2669
+INFO 2023-09-07 21:28:24,397 basehttp 19464 15784 "GET /create_author HTTP/1.1" 301 0
+INFO 2023-09-07 21:28:24,619 basehttp 19464 11556 "GET /create_author/ HTTP/1.1" 200 4442
+INFO 2023-09-07 21:29:53,273 autoreload 19464 12984 C:\Alex\GB\django\les_4\myproject\les_app\urls.py changed, reloading.
+INFO 2023-09-07 21:29:53,969 autoreload 4520 10820 Watching for file changes with StatReloader
+INFO 2023-09-07 21:29:55,422 autoreload 4520 10820 C:\Alex\GB\django\les_4\myproject\les_app\urls.py changed, reloading.
+INFO 2023-09-07 21:29:56,289 autoreload 13196 19956 Watching for file changes with StatReloader
+INFO 2023-09-07 21:29:59,122 basehttp 13196 3736 "GET /create_author/ HTTP/1.1" 200 4442
+INFO 2023-09-07 21:30:00,752 basehttp 13196 3736 "GET /create_author/ HTTP/1.1" 200 4442
+INFO 2023-09-07 21:30:07,786 basehttp 13196 3736 "POST /create_author/ HTTP/1.1" 200 5025
+INFO 2023-09-07 21:30:13,275 basehttp 13196 3736 "GET /create_author/ HTTP/1.1" 200 4442
+INFO 2023-09-07 21:30:45,579 autoreload 13196 19956 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:30:46,294 autoreload 10540 11524 Watching for file changes with StatReloader
+INFO 2023-09-07 21:30:49,849 basehttp 10540 9816 "GET /create_author/ HTTP/1.1" 200 4746
+INFO 2023-09-07 21:31:29,800 basehttp 10540 9816 "POST /create_author/ HTTP/1.1" 200 4866
+INFO 2023-09-07 21:31:50,093 basehttp 10540 9816 - Broken pipe from ('127.0.0.1', 49264)
+INFO 2023-09-07 21:33:36,074 basehttp 10540 11192 "GET /create_author/ HTTP/1.1" 200 4772
+INFO 2023-09-07 21:33:49,787 basehttp 10540 11192 "GET /create_author/ HTTP/1.1" 200 4773
+INFO 2023-09-07 21:34:20,166 basehttp 10540 11192 "GET /create_author/ HTTP/1.1" 200 4746
+INFO 2023-09-07 21:34:31,304 autoreload 10540 11524 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:34:32,010 autoreload 7372 11584 Watching for file changes with StatReloader
+INFO 2023-09-07 21:34:37,744 autoreload 7372 11584 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:34:38,421 autoreload 21060 17388 Watching for file changes with StatReloader
+INFO 2023-09-07 21:34:45,251 autoreload 21060 17388 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:34:45,973 autoreload 13284 368 Watching for file changes with StatReloader
+INFO 2023-09-07 21:34:52,784 autoreload 13284 368 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:34:53,671 autoreload 12732 1468 Watching for file changes with StatReloader
+INFO 2023-09-07 21:34:56,307 autoreload 12732 1468 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:34:56,973 autoreload 3872 6556 Watching for file changes with StatReloader
+INFO 2023-09-07 21:35:03,692 autoreload 3872 6556 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:35:04,372 autoreload 16620 5236 Watching for file changes with StatReloader
+INFO 2023-09-07 21:35:10,139 autoreload 16620 5236 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:35:10,782 autoreload 18920 17360 Watching for file changes with StatReloader
+INFO 2023-09-07 21:35:14,403 autoreload 18920 17360 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:35:15,118 autoreload 12384 16292 Watching for file changes with StatReloader
+INFO 2023-09-07 21:36:30,343 autoreload 12384 16292 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:36:31,128 autoreload 10928 19924 Watching for file changes with StatReloader
+INFO 2023-09-07 21:36:32,382 autoreload 10928 19924 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:36:33,165 autoreload 16068 19668 Watching for file changes with StatReloader
+INFO 2023-09-07 21:36:36,749 autoreload 16068 19668 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:36:37,363 autoreload 15668 18212 Watching for file changes with StatReloader
+INFO 2023-09-07 21:36:40,020 autoreload 15668 18212 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:36:40,651 autoreload 6364 19796 Watching for file changes with StatReloader
+INFO 2023-09-07 21:36:45,311 autoreload 6364 19796 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:36:46,026 autoreload 9552 20092 Watching for file changes with StatReloader
+INFO 2023-09-07 21:36:52,751 autoreload 9552 20092 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:36:53,376 autoreload 21124 10184 Watching for file changes with StatReloader
+INFO 2023-09-07 21:36:59,012 autoreload 21124 10184 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:36:59,781 autoreload 14932 12740 Watching for file changes with StatReloader
+INFO 2023-09-07 21:37:02,181 autoreload 14932 12740 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:37:02,819 autoreload 20452 5160 Watching for file changes with StatReloader
+INFO 2023-09-07 21:37:07,369 autoreload 20452 5160 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:37:08,026 autoreload 8584 8092 Watching for file changes with StatReloader
+INFO 2023-09-07 21:37:22,008 autoreload 8584 8092 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:37:22,662 autoreload 3212 21004 Watching for file changes with StatReloader
+INFO 2023-09-07 21:37:23,958 autoreload 3212 21004 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:37:24,700 autoreload 6968 15124 Watching for file changes with StatReloader
+INFO 2023-09-07 21:37:27,098 autoreload 6968 15124 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:37:27,848 autoreload 11952 9948 Watching for file changes with StatReloader
+INFO 2023-09-07 21:37:29,156 autoreload 11952 9948 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:37:29,845 autoreload 15716 12948 Watching for file changes with StatReloader
+INFO 2023-09-07 21:37:31,112 autoreload 15716 12948 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:37:31,787 autoreload 17252 21216 Watching for file changes with StatReloader
+INFO 2023-09-07 21:37:34,115 autoreload 17252 21216 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:37:34,823 autoreload 5476 3104 Watching for file changes with StatReloader
+INFO 2023-09-07 21:37:38,376 autoreload 5476 3104 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:37:39,122 autoreload 15908 10732 Watching for file changes with StatReloader
+INFO 2023-09-07 21:37:51,207 autoreload 15908 10732 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:37:52,043 autoreload 16652 8552 Watching for file changes with StatReloader
+INFO 2023-09-07 21:37:54,577 autoreload 16652 8552 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:37:55,306 autoreload 10148 1180 Watching for file changes with StatReloader
+INFO 2023-09-07 21:37:56,635 autoreload 10148 1180 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:37:57,284 autoreload 15424 1996 Watching for file changes with StatReloader
+INFO 2023-09-07 21:37:59,594 autoreload 15424 1996 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:38:00,290 autoreload 15656 19828 Watching for file changes with StatReloader
+INFO 2023-09-07 21:38:02,566 autoreload 15656 19828 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:38:03,267 autoreload 10980 8768 Watching for file changes with StatReloader
+INFO 2023-09-07 21:38:04,769 autoreload 10980 8768 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:38:05,377 autoreload 18212 14644 Watching for file changes with StatReloader
+INFO 2023-09-07 21:38:07,724 autoreload 18212 14644 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:38:08,580 autoreload 19188 16816 Watching for file changes with StatReloader
+INFO 2023-09-07 21:38:53,578 autoreload 19188 16816 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:38:54,348 autoreload 21368 7116 Watching for file changes with StatReloader
+INFO 2023-09-07 21:40:07,274 autoreload 21368 7116 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:40:08,008 autoreload 9180 16312 Watching for file changes with StatReloader
+INFO 2023-09-07 21:40:10,542 autoreload 9180 16312 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:40:11,178 autoreload 11904 10148 Watching for file changes with StatReloader
+INFO 2023-09-07 21:40:13,508 autoreload 11904 10148 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:40:14,175 autoreload 12456 5576 Watching for file changes with StatReloader
+INFO 2023-09-07 21:40:16,485 autoreload 12456 5576 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:40:17,204 autoreload 8880 11812 Watching for file changes with StatReloader
+INFO 2023-09-07 21:40:19,492 autoreload 8880 11812 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:40:20,149 autoreload 19924 19956 Watching for file changes with StatReloader
+INFO 2023-09-07 21:40:21,433 autoreload 19924 19956 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:40:22,320 autoreload 20696 10980 Watching for file changes with StatReloader
+INFO 2023-09-07 21:40:45,859 autoreload 20696 10980 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:40:46,544 autoreload 16124 18424 Watching for file changes with StatReloader
+INFO 2023-09-07 21:40:48,887 autoreload 16124 18424 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 21:40:49,537 autoreload 16812 13844 Watching for file changes with StatReloader
+INFO 2023-09-07 21:41:46,252 basehttp 16812 3012 "GET /create_author/ HTTP/1.1" 200 4746
+INFO 2023-09-07 21:42:11,434 basehttp 16812 3012 "POST /create_author/ HTTP/1.1" 200 3860
+INFO 2023-09-07 21:43:31,855 autoreload 16812 13844 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:43:32,511 autoreload 8908 11916 Watching for file changes with StatReloader
+INFO 2023-09-07 21:43:35,080 autoreload 8908 11916 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:43:35,778 autoreload 19584 13036 Watching for file changes with StatReloader
+INFO 2023-09-07 21:43:39,274 autoreload 19584 13036 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:43:40,010 autoreload 13792 18980 Watching for file changes with StatReloader
+INFO 2023-09-07 21:43:42,311 autoreload 13792 18980 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:43:42,948 autoreload 11836 21044 Watching for file changes with StatReloader
+INFO 2023-09-07 21:43:45,246 autoreload 11836 21044 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:43:45,886 autoreload 15276 20288 Watching for file changes with StatReloader
+INFO 2023-09-07 21:43:47,108 autoreload 15276 20288 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:43:47,770 autoreload 12684 18228 Watching for file changes with StatReloader
+INFO 2023-09-07 21:43:50,046 autoreload 12684 18228 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:43:50,757 autoreload 8180 19656 Watching for file changes with StatReloader
+INFO 2023-09-07 21:43:52,072 autoreload 8180 19656 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:43:52,704 autoreload 8204 14072 Watching for file changes with StatReloader
+INFO 2023-09-07 21:43:53,944 autoreload 8204 14072 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:43:54,647 autoreload 13664 10508 Watching for file changes with StatReloader
+INFO 2023-09-07 21:44:05,487 autoreload 13664 10508 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:44:06,171 autoreload 14712 632 Watching for file changes with StatReloader
+INFO 2023-09-07 21:44:12,914 autoreload 14712 632 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:44:13,525 autoreload 9392 8584 Watching for file changes with StatReloader
+INFO 2023-09-07 21:44:14,990 autoreload 9392 8584 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:44:15,610 autoreload 4328 21308 Watching for file changes with StatReloader
+INFO 2023-09-07 21:44:17,983 autoreload 4328 21308 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:44:18,739 autoreload 19388 8500 Watching for file changes with StatReloader
+INFO 2023-09-07 21:44:23,338 autoreload 19388 8500 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:44:23,982 autoreload 8976 20708 Watching for file changes with StatReloader
+INFO 2023-09-07 21:44:26,450 autoreload 8976 20708 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:44:27,176 autoreload 10336 11180 Watching for file changes with StatReloader
+INFO 2023-09-07 21:44:29,660 autoreload 10336 11180 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:44:30,340 autoreload 3236 12408 Watching for file changes with StatReloader
+INFO 2023-09-07 21:44:32,797 autoreload 3236 12408 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:44:33,452 autoreload 21360 17268 Watching for file changes with StatReloader
+INFO 2023-09-07 21:44:38,023 autoreload 21360 17268 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:44:38,719 autoreload 19440 12300 Watching for file changes with StatReloader
+INFO 2023-09-07 21:44:42,252 autoreload 19440 12300 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:44:42,949 autoreload 18244 2468 Watching for file changes with StatReloader
+INFO 2023-09-07 21:45:17,287 autoreload 18244 2468 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 21:45:18,016 autoreload 1880 15256 Watching for file changes with StatReloader
+INFO 2023-09-07 21:51:03,671 autoreload 1880 15256 C:\Alex\GB\django\les_4\myproject\les_app\models.py changed, reloading.
+INFO 2023-09-07 21:51:04,363 autoreload 21312 17696 Watching for file changes with StatReloader
+INFO 2023-09-07 21:58:33,470 autoreload 18772 20924 Watching for file changes with StatReloader
+INFO 2023-09-07 21:58:40,910 basehttp 18772 4032 "GET /create_post HTTP/1.1" 301 0
+INFO 2023-09-07 21:58:40,969 basehttp 18772 21188 "GET /create_post/ HTTP/1.1" 200 4914
+ERROR 2023-09-07 21:59:59,760 log 18772 21188 Internal Server Error: /create_post/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 78, in create_post
+    post = Post(title=form.cleaned_data['title'],
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\fields\related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "'Алексей Шевцов'": "Post.author" must be a "Author" instance.
+ERROR 2023-09-07 21:59:59,773 basehttp 18772 21188 "POST /create_post/ HTTP/1.1" 500 79823
+INFO 2023-09-07 22:02:11,762 autoreload 18772 20924 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:02:12,678 autoreload 18104 16692 Watching for file changes with StatReloader
+INFO 2023-09-07 22:02:17,420 autoreload 18104 16692 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:02:18,247 autoreload 3340 9940 Watching for file changes with StatReloader
+INFO 2023-09-07 22:02:19,602 autoreload 3340 9940 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:02:20,486 autoreload 13572 19900 Watching for file changes with StatReloader
+INFO 2023-09-07 22:02:43,258 autoreload 13572 19900 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:02:44,149 autoreload 6716 19636 Watching for file changes with StatReloader
+INFO 2023-09-07 22:02:48,848 autoreload 6716 19636 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:02:49,458 autoreload 308 19664 Watching for file changes with StatReloader
+ERROR 2023-09-07 22:03:03,650 log 308 8900 Internal Server Error: /create_post/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 89, in create_post
+    return render(request, 'les_app/add_form.html', {'form': form, 'title': 'Добавить статью'})
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\utils.py", line 84, in as_p
+    return self.render(self.template_name_p)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\utils.py", line 75, in render
+    return mark_safe(renderer.render(template, context))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1070, in render
+    return render_value_in_context(output, context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1047, in render_value_in_context
+    value = str(value)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\utils\html.py", line 420, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\boundfield.py", line 34, in __str__
+    return self.as_widget()
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\boundfield.py", line 94, in as_widget
+    attrs = self.build_widget_attrs(attrs, widget)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\boundfield.py", line 269, in build_widget_attrs
+    widget.use_required_attribute(self.initial)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\widgets.py", line 783, in use_required_attribute
+    and self._choice_has_empty_value(first_choice)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\widgets.py", line 766, in _choice_has_empty_value
+    value, _ = choice
+TypeError: cannot unpack non-iterable Author object
+ERROR 2023-09-07 22:03:03,691 basehttp 308 8900 "GET /create_post/ HTTP/1.1" 500 252271
+ERROR 2023-09-07 22:03:14,173 log 308 8900 Internal Server Error: /create_post/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 89, in create_post
+    return render(request, 'les_app/add_form.html', {'form': form, 'title': 'Добавить статью'})
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\utils.py", line 84, in as_p
+    return self.render(self.template_name_p)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\utils.py", line 75, in render
+    return mark_safe(renderer.render(template, context))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1070, in render
+    return render_value_in_context(output, context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1047, in render_value_in_context
+    value = str(value)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\utils\html.py", line 420, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\boundfield.py", line 34, in __str__
+    return self.as_widget()
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\boundfield.py", line 94, in as_widget
+    attrs = self.build_widget_attrs(attrs, widget)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\boundfield.py", line 269, in build_widget_attrs
+    widget.use_required_attribute(self.initial)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\widgets.py", line 783, in use_required_attribute
+    and self._choice_has_empty_value(first_choice)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\widgets.py", line 766, in _choice_has_empty_value
+    value, _ = choice
+TypeError: cannot unpack non-iterable Author object
+ERROR 2023-09-07 22:03:14,215 basehttp 308 8900 "GET /create_post/ HTTP/1.1" 500 252408
+INFO 2023-09-07 22:03:27,634 autoreload 20500 13748 Watching for file changes with StatReloader
+INFO 2023-09-07 22:04:14,214 basehttp 20500 12224 "GET /create_author/ HTTP/1.1" 200 4794
+INFO 2023-09-07 22:04:49,470 basehttp 20500 12224 "POST /create_author/ HTTP/1.1" 200 3850
+ERROR 2023-09-07 22:05:01,336 log 20500 12224 Internal Server Error: /create_post/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 89, in create_post
+    return render(request, 'les_app/add_form.html', {'form': form, 'title': 'Добавить статью'})
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\utils.py", line 84, in as_p
+    return self.render(self.template_name_p)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\utils.py", line 75, in render
+    return mark_safe(renderer.render(template, context))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1070, in render
+    return render_value_in_context(output, context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1047, in render_value_in_context
+    value = str(value)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\utils\html.py", line 420, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\boundfield.py", line 34, in __str__
+    return self.as_widget()
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\boundfield.py", line 94, in as_widget
+    attrs = self.build_widget_attrs(attrs, widget)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\boundfield.py", line 269, in build_widget_attrs
+    widget.use_required_attribute(self.initial)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\widgets.py", line 783, in use_required_attribute
+    and self._choice_has_empty_value(first_choice)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\forms\widgets.py", line 766, in _choice_has_empty_value
+    value, _ = choice
+TypeError: cannot unpack non-iterable Author object
+ERROR 2023-09-07 22:05:01,404 basehttp 20500 12224 "GET /create_post/ HTTP/1.1" 500 252271
+INFO 2023-09-07 22:05:44,014 autoreload 20500 13748 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:05:44,878 autoreload 10708 19052 Watching for file changes with StatReloader
+INFO 2023-09-07 22:05:47,176 autoreload 10708 19052 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:05:47,836 autoreload 7016 11928 Watching for file changes with StatReloader
+INFO 2023-09-07 22:05:57,839 autoreload 7016 11928 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:05:58,583 autoreload 14656 18640 Watching for file changes with StatReloader
+INFO 2023-09-07 22:05:59,918 autoreload 14656 18640 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:06:00,631 autoreload 13324 18620 Watching for file changes with StatReloader
+INFO 2023-09-07 22:06:09,225 autoreload 13324 18620 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:06:10,060 autoreload 11872 16088 Watching for file changes with StatReloader
+INFO 2023-09-07 22:06:12,498 autoreload 11872 16088 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:06:13,155 autoreload 5840 21352 Watching for file changes with StatReloader
+INFO 2023-09-07 22:06:16,531 autoreload 5840 21352 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:06:17,141 autoreload 14856 7204 Watching for file changes with StatReloader
+INFO 2023-09-07 22:06:19,494 autoreload 14856 7204 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:06:20,144 autoreload 14280 20956 Watching for file changes with StatReloader
+INFO 2023-09-07 22:06:22,505 autoreload 14280 20956 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:06:23,267 autoreload 17328 1324 Watching for file changes with StatReloader
+INFO 2023-09-07 22:06:27,718 autoreload 17328 1324 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:06:28,375 autoreload 6636 20600 Watching for file changes with StatReloader
+INFO 2023-09-07 22:06:30,717 autoreload 6636 20600 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:06:31,464 autoreload 15636 15656 Watching for file changes with StatReloader
+INFO 2023-09-07 22:06:33,898 autoreload 15636 15656 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:06:34,547 autoreload 12568 3512 Watching for file changes with StatReloader
+INFO 2023-09-07 22:06:40,043 autoreload 12568 3512 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:06:40,750 autoreload 18200 2760 Watching for file changes with StatReloader
+INFO 2023-09-07 22:06:45,168 autoreload 18200 2760 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:06:45,887 autoreload 9576 13412 Watching for file changes with StatReloader
+INFO 2023-09-07 22:06:49,272 autoreload 9576 13412 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:06:49,979 autoreload 920 20384 Watching for file changes with StatReloader
+INFO 2023-09-07 22:06:52,307 autoreload 920 20384 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:06:53,026 autoreload 3204 8496 Watching for file changes with StatReloader
+INFO 2023-09-07 22:06:56,413 autoreload 3204 8496 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:06:57,286 autoreload 15828 10996 Watching for file changes with StatReloader
+INFO 2023-09-07 22:07:04,174 autoreload 15828 10996 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:07:04,921 autoreload 1456 18652 Watching for file changes with StatReloader
+INFO 2023-09-07 22:07:10,531 autoreload 1456 18652 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:07:11,164 autoreload 6640 8328 Watching for file changes with StatReloader
+INFO 2023-09-07 22:07:12,468 autoreload 6640 8328 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:07:13,200 autoreload 18836 20072 Watching for file changes with StatReloader
+INFO 2023-09-07 22:07:25,076 autoreload 18836 20072 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:07:25,867 autoreload 9824 19052 Watching for file changes with StatReloader
+INFO 2023-09-07 22:07:27,104 autoreload 9824 19052 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:07:27,725 autoreload 14048 9236 Watching for file changes with StatReloader
+INFO 2023-09-07 22:07:31,142 autoreload 14048 9236 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:07:31,959 autoreload 11820 3124 Watching for file changes with StatReloader
+INFO 2023-09-07 22:07:36,359 autoreload 11820 3124 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:07:37,202 autoreload 19176 18640 Watching for file changes with StatReloader
+INFO 2023-09-07 22:07:39,496 autoreload 19176 18640 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:07:40,259 autoreload 18840 19996 Watching for file changes with StatReloader
+INFO 2023-09-07 22:07:45,680 autoreload 18840 19996 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:07:46,445 autoreload 16088 19264 Watching for file changes with StatReloader
+INFO 2023-09-07 22:07:49,862 autoreload 16088 19264 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:07:50,644 autoreload 2740 7980 Watching for file changes with StatReloader
+INFO 2023-09-07 22:07:52,982 autoreload 2740 7980 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:07:53,826 autoreload 4304 10152 Watching for file changes with StatReloader
+INFO 2023-09-07 22:07:56,128 autoreload 4304 10152 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:07:56,777 autoreload 13132 1208 Watching for file changes with StatReloader
+INFO 2023-09-07 22:07:58,042 autoreload 13132 1208 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:07:58,779 autoreload 16680 7588 Watching for file changes with StatReloader
+INFO 2023-09-07 22:08:04,330 autoreload 16680 7588 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:08:05,090 autoreload 4320 12888 Watching for file changes with StatReloader
+INFO 2023-09-07 22:08:06,418 autoreload 4320 12888 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:08:07,133 autoreload 20316 20996 Watching for file changes with StatReloader
+INFO 2023-09-07 22:08:11,606 autoreload 20316 20996 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:08:12,426 autoreload 17184 16588 Watching for file changes with StatReloader
+INFO 2023-09-07 22:08:14,736 autoreload 17184 16588 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:08:15,461 autoreload 11732 9764 Watching for file changes with StatReloader
+INFO 2023-09-07 22:08:18,851 autoreload 11732 9764 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:08:19,685 autoreload 11236 3968 Watching for file changes with StatReloader
+INFO 2023-09-07 22:08:26,537 autoreload 11236 3968 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:08:27,236 autoreload 2824 20384 Watching for file changes with StatReloader
+INFO 2023-09-07 22:08:32,805 basehttp 2824 17416 "GET /create_post/ HTTP/1.1" 200 5012
+ERROR 2023-09-07 22:09:30,243 log 2824 17416 Internal Server Error: /create_post/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 78, in create_post
+    post = Post(title=form.cleaned_data['title'],
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\fields\related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "'2'": "Post.author" must be a "Author" instance.
+ERROR 2023-09-07 22:09:30,260 basehttp 2824 17416 "POST /create_post/ HTTP/1.1" 500 79653
+INFO 2023-09-07 22:11:42,480 autoreload 2824 20384 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:11:43,153 autoreload 7804 8976 Watching for file changes with StatReloader
+INFO 2023-09-07 22:11:45,777 autoreload 7804 8976 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:11:46,500 autoreload 2032 9400 Watching for file changes with StatReloader
+INFO 2023-09-07 22:11:50,084 autoreload 2032 9400 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:11:50,787 autoreload 13572 9160 Watching for file changes with StatReloader
+INFO 2023-09-07 22:11:55,448 autoreload 13572 9160 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:11:56,126 autoreload 5448 9416 Watching for file changes with StatReloader
+INFO 2023-09-07 22:11:57,586 autoreload 5448 9416 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:11:58,238 autoreload 13484 12732 Watching for file changes with StatReloader
+INFO 2023-09-07 22:11:59,724 autoreload 13484 12732 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:12:00,425 autoreload 10008 14012 Watching for file changes with StatReloader
+INFO 2023-09-07 22:12:02,735 autoreload 10008 14012 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:12:03,427 autoreload 14168 14364 Watching for file changes with StatReloader
+INFO 2023-09-07 22:12:11,471 basehttp 14168 11240 "GET /create_post/ HTTP/1.1" 200 5012
+ERROR 2023-09-07 22:12:40,466 log 14168 11240 Internal Server Error: /create_post/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 78, in create_post
+    post = Post(title=form.cleaned_data['title'],
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\fields\related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "'1'": "Post.author" must be a "Author" instance.
+ERROR 2023-09-07 22:12:40,483 basehttp 14168 11240 "POST /create_post/ HTTP/1.1" 500 79509
+INFO 2023-09-07 22:13:04,799 autoreload 14168 14364 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:13:05,409 autoreload 12112 7164 Watching for file changes with StatReloader
+INFO 2023-09-07 22:13:08,821 autoreload 12112 7164 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:13:09,432 autoreload 11232 2508 Watching for file changes with StatReloader
+INFO 2023-09-07 22:13:43,018 basehttp 11232 18228 "GET /create_post/ HTTP/1.1" 200 5012
+INFO 2023-09-07 22:13:44,103 basehttp 11232 18228 - Broken pipe from ('127.0.0.1', 49423)
+ERROR 2023-09-07 22:13:51,105 log 11232 17856 Internal Server Error: /create_post/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 78, in create_post
+    post = Post(title=form.cleaned_data['title'],
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\fields\related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "'1'": "Post.author" must be a "Author" instance.
+ERROR 2023-09-07 22:13:51,130 basehttp 11232 17856 "POST /create_post/ HTTP/1.1" 500 79509
+INFO 2023-09-07 22:13:54,075 basehttp 11232 17856 - Broken pipe from ('127.0.0.1', 49433)
+INFO 2023-09-07 22:15:23,054 autoreload 11232 2508 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:15:23,756 autoreload 17696 18840 Watching for file changes with StatReloader
+INFO 2023-09-07 22:15:26,696 basehttp 17696 2420 "GET /create_post/ HTTP/1.1" 200 5088
+ERROR 2023-09-07 22:15:47,877 log 17696 10068 Internal Server Error: /create_post/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 78, in create_post
+    post = Post(title=form.cleaned_data['title'],
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\fields\related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "'Алексей Шевцов'": "Post.author" must be a "Author" instance.
+ERROR 2023-09-07 22:15:47,892 basehttp 17696 10068 "POST /create_post/ HTTP/1.1" 500 79691
+INFO 2023-09-07 22:15:54,275 basehttp 17696 16128 - Broken pipe from ('127.0.0.1', 49558)
+INFO 2023-09-07 22:16:31,299 autoreload 17696 18840 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:16:32,146 autoreload 9360 10252 Watching for file changes with StatReloader
+INFO 2023-09-07 22:16:33,590 autoreload 9360 10252 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:16:34,322 autoreload 12388 19952 Watching for file changes with StatReloader
+INFO 2023-09-07 22:16:49,736 autoreload 12388 19952 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:16:50,451 autoreload 13912 4436 Watching for file changes with StatReloader
+INFO 2023-09-07 22:16:52,072 autoreload 13912 4436 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:16:52,824 autoreload 168 18292 Watching for file changes with StatReloader
+INFO 2023-09-07 22:16:58,670 autoreload 168 18292 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:16:59,424 autoreload 17076 3536 Watching for file changes with StatReloader
+INFO 2023-09-07 22:17:04,120 autoreload 17076 3536 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:17:05,117 autoreload 17360 13980 Watching for file changes with StatReloader
+INFO 2023-09-07 22:17:07,976 basehttp 17360 9344 "GET /create_post/ HTTP/1.1" 200 5012
+ERROR 2023-09-07 22:17:58,690 log 17360 12844 Internal Server Error: /create_post/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 81, in create_post
+    author=Author.objects.get(form.cleaned_data['author']),
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\sql\query.py", line 1423, in build_filter
+    arg, value = filter_expr
+ValueError: not enough values to unpack (expected 2, got 1)
+ERROR 2023-09-07 22:17:58,690 basehttp 17360 12844 "POST /create_post/ HTTP/1.1" 500 105699
+INFO 2023-09-07 22:18:04,481 basehttp 17360 12844 - Broken pipe from ('127.0.0.1', 49590)
+INFO 2023-09-07 22:19:30,870 autoreload 17360 13980 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:19:31,367 autoreload 2960 10708 Watching for file changes with StatReloader
+INFO 2023-09-07 22:19:33,754 autoreload 2960 10708 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:19:34,261 autoreload 2724 10460 Watching for file changes with StatReloader
+INFO 2023-09-07 22:19:48,321 basehttp 2724 16536 "GET /create_post/ HTTP/1.1" 200 5012
+INFO 2023-09-07 22:19:54,509 basehttp 2724 16536 "POST /create_post/ HTTP/1.1" 200 3865
+INFO 2023-09-07 22:19:54,698 basehttp 2724 10980 - Broken pipe from ('127.0.0.1', 49621)
+INFO 2023-09-07 22:20:26,029 basehttp 2724 11492 "GET /create_post/ HTTP/1.1" 200 5012
+INFO 2023-09-07 22:20:34,736 basehttp 2724 11492 - Broken pipe from ('127.0.0.1', 49636)
+INFO 2023-09-07 22:20:57,537 basehttp 2724 10332 "POST /create_post/ HTTP/1.1" 200 3859
+INFO 2023-09-07 22:21:04,778 basehttp 2724 10332 - Broken pipe from ('127.0.0.1', 49648)
+INFO 2023-09-07 22:26:48,487 autoreload 2724 10460 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:26:49,030 autoreload 1340 13132 Watching for file changes with StatReloader
+INFO 2023-09-07 22:26:50,436 autoreload 1340 13132 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:26:50,985 autoreload 9148 11352 Watching for file changes with StatReloader
+INFO 2023-09-07 22:26:55,430 autoreload 9148 11352 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:26:55,948 autoreload 16780 7664 Watching for file changes with StatReloader
+INFO 2023-09-07 22:26:57,301 autoreload 16780 7664 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:26:57,815 autoreload 18360 6752 Watching for file changes with StatReloader
+INFO 2023-09-07 22:27:29,874 autoreload 18360 6752 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:27:30,412 autoreload 11304 12388 Watching for file changes with StatReloader
+INFO 2023-09-07 22:27:34,903 autoreload 11304 12388 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:27:35,412 autoreload 17496 3108 Watching for file changes with StatReloader
+INFO 2023-09-07 22:27:41,850 autoreload 17496 3108 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:27:42,364 autoreload 20340 11848 Watching for file changes with StatReloader
+INFO 2023-09-07 22:27:47,868 autoreload 20340 11848 C:\Alex\GB\django\les_4\myproject\les_app\urls.py changed, reloading.
+INFO 2023-09-07 22:27:48,371 autoreload 11660 18464 Watching for file changes with StatReloader
+INFO 2023-09-07 22:27:58,989 autoreload 11660 18464 C:\Alex\GB\django\les_4\myproject\les_app\urls.py changed, reloading.
+INFO 2023-09-07 22:27:59,487 autoreload 19844 13664 Watching for file changes with StatReloader
+INFO 2023-09-07 22:28:00,786 autoreload 19844 13664 C:\Alex\GB\django\les_4\myproject\les_app\urls.py changed, reloading.
+INFO 2023-09-07 22:28:01,304 autoreload 12144 15292 Watching for file changes with StatReloader
+INFO 2023-09-07 22:28:02,622 autoreload 12144 15292 C:\Alex\GB\django\les_4\myproject\les_app\urls.py changed, reloading.
+INFO 2023-09-07 22:28:03,108 autoreload 9112 14160 Watching for file changes with StatReloader
+INFO 2023-09-07 22:28:05,416 autoreload 9112 14160 C:\Alex\GB\django\les_4\myproject\les_app\urls.py changed, reloading.
+INFO 2023-09-07 22:28:05,921 autoreload 19264 14932 Watching for file changes with StatReloader
+INFO 2023-09-07 22:28:20,579 autoreload 19264 14932 C:\Alex\GB\django\les_4\myproject\les_app\urls.py changed, reloading.
+INFO 2023-09-07 22:28:21,057 autoreload 15300 7048 Watching for file changes with StatReloader
+INFO 2023-09-07 22:28:24,463 autoreload 15300 7048 C:\Alex\GB\django\les_4\myproject\les_app\urls.py changed, reloading.
+INFO 2023-09-07 22:28:24,927 autoreload 6716 1176 Watching for file changes with StatReloader
+INFO 2023-09-07 22:28:26,230 autoreload 6716 1176 C:\Alex\GB\django\les_4\myproject\les_app\urls.py changed, reloading.
+INFO 2023-09-07 22:28:26,683 autoreload 5160 18180 Watching for file changes with StatReloader
+INFO 2023-09-07 22:28:28,917 autoreload 5160 18180 C:\Alex\GB\django\les_4\myproject\les_app\urls.py changed, reloading.
+INFO 2023-09-07 22:28:29,400 autoreload 5852 6552 Watching for file changes with StatReloader
+INFO 2023-09-07 22:28:35,851 autoreload 5852 6552 C:\Alex\GB\django\les_4\myproject\les_app\urls.py changed, reloading.
+INFO 2023-09-07 22:28:36,394 autoreload 14940 11464 Watching for file changes with StatReloader
+INFO 2023-09-07 22:28:50,088 autoreload 14940 11464 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:28:50,580 autoreload 5412 17600 Watching for file changes with StatReloader
+INFO 2023-09-07 22:28:53,821 autoreload 5412 17600 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:28:54,290 autoreload 20180 15288 Watching for file changes with StatReloader
+INFO 2023-09-07 22:28:57,536 autoreload 20180 15288 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:28:58,029 autoreload 15396 9172 Watching for file changes with StatReloader
+INFO 2023-09-07 22:28:59,219 autoreload 15396 9172 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:28:59,654 autoreload 7668 15732 Watching for file changes with StatReloader
+INFO 2023-09-07 22:29:01,884 autoreload 7668 15732 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:29:02,376 autoreload 4380 19660 Watching for file changes with StatReloader
+INFO 2023-09-07 22:30:28,583 autoreload 4380 19660 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:30:29,096 autoreload 16536 19272 Watching for file changes with StatReloader
+INFO 2023-09-07 22:30:30,322 autoreload 16536 19272 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:30:30,794 autoreload 4180 800 Watching for file changes with StatReloader
+INFO 2023-09-07 22:30:35,196 autoreload 4180 800 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:30:35,727 autoreload 14760 11372 Watching for file changes with StatReloader
+INFO 2023-09-07 22:30:37,077 autoreload 14760 11372 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:30:37,583 autoreload 14548 10992 Watching for file changes with StatReloader
+INFO 2023-09-07 22:30:38,911 autoreload 14548 10992 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:30:39,360 autoreload 8252 20272 Watching for file changes with StatReloader
+INFO 2023-09-07 22:30:40,716 autoreload 8252 20272 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:30:41,251 autoreload 16908 19792 Watching for file changes with StatReloader
+INFO 2023-09-07 22:30:48,756 autoreload 16908 19792 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:30:49,249 autoreload 21044 8460 Watching for file changes with StatReloader
+INFO 2023-09-07 22:30:58,860 autoreload 21044 8460 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:30:59,436 autoreload 19276 21040 Watching for file changes with StatReloader
+INFO 2023-09-07 22:31:02,865 autoreload 19276 21040 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:31:03,339 autoreload 11944 16088 Watching for file changes with StatReloader
+INFO 2023-09-07 22:31:04,695 autoreload 11944 16088 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:31:05,158 autoreload 14468 18772 Watching for file changes with StatReloader
+INFO 2023-09-07 22:31:08,565 autoreload 14468 18772 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:31:09,011 autoreload 3536 19028 Watching for file changes with StatReloader
+INFO 2023-09-07 22:31:11,379 autoreload 3536 19028 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:31:11,886 autoreload 21140 8240 Watching for file changes with StatReloader
+INFO 2023-09-07 22:31:32,724 autoreload 21140 8240 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:31:33,158 autoreload 7028 1876 Watching for file changes with StatReloader
+ERROR 2023-09-07 22:33:51,464 log 7028 2568 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 79, in index
+    return render(request, 'les_app/author_list.html', {'authors': authors})
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'main' not found. 'main' is not a valid view function or pattern name.
+ERROR 2023-09-07 22:33:51,488 basehttp 7028 2568 "GET / HTTP/1.1" 500 161223
+INFO 2023-09-07 22:36:15,643 basehttp 7028 2568 "GET / HTTP/1.1" 200 3767
+INFO 2023-09-07 22:38:24,658 basehttp 7028 2568 "GET / HTTP/1.1" 200 4355
+ERROR 2023-09-07 22:38:29,001 log 7028 2568 Internal Server Error: /author/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 85, in author_posts
+    return render(request, 'les_app/author_posts.html', {'author': author, 'posts': posts})
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'main' not found. 'main' is not a valid view function or pattern name.
+ERROR 2023-09-07 22:38:29,022 basehttp 7028 2568 "GET /author/1/ HTTP/1.1" 500 161201
+INFO 2023-09-07 22:38:44,556 basehttp 7028 2568 "GET /author/1/ HTTP/1.1" 200 4010
+INFO 2023-09-07 22:40:05,108 autoreload 7028 1876 C:\Alex\GB\django\les_4\myproject\les_app\models.py changed, reloading.
+INFO 2023-09-07 22:40:05,665 autoreload 18144 3816 Watching for file changes with StatReloader
+INFO 2023-09-07 22:40:08,987 autoreload 18144 3816 C:\Alex\GB\django\les_4\myproject\les_app\models.py changed, reloading.
+INFO 2023-09-07 22:40:09,449 autoreload 10524 10352 Watching for file changes with StatReloader
+INFO 2023-09-07 22:40:10,702 autoreload 10524 10352 C:\Alex\GB\django\les_4\myproject\les_app\models.py changed, reloading.
+INFO 2023-09-07 22:40:11,129 autoreload 8044 19932 Watching for file changes with StatReloader
+INFO 2023-09-07 22:40:15,415 autoreload 8044 19932 C:\Alex\GB\django\les_4\myproject\les_app\models.py changed, reloading.
+INFO 2023-09-07 22:40:15,850 autoreload 11488 16460 Watching for file changes with StatReloader
+INFO 2023-09-07 22:40:18,101 autoreload 11488 16460 C:\Alex\GB\django\les_4\myproject\les_app\models.py changed, reloading.
+INFO 2023-09-07 22:40:18,645 autoreload 16088 11532 Watching for file changes with StatReloader
+INFO 2023-09-07 22:40:54,897 basehttp 16088 18264 "GET /author/1/ HTTP/1.1" 200 4038
+INFO 2023-09-07 22:40:56,562 basehttp 16088 18264 "GET /post/1/ HTTP/1.1" 200 4042
+INFO 2023-09-07 22:41:25,214 basehttp 16088 18264 "GET /author/2/ HTTP/1.1" 200 4010
+INFO 2023-09-07 22:41:27,336 basehttp 16088 18264 "GET /post/2/ HTTP/1.1" 200 3878
+INFO 2023-09-07 22:41:32,148 basehttp 16088 18264 "GET /author/3/ HTTP/1.1" 200 3788
+INFO 2023-09-07 22:41:37,270 basehttp 16088 18264 "GET /author/2/ HTTP/1.1" 200 4010
+INFO 2023-09-07 22:41:47,169 basehttp 16088 18264 "GET /author/1/ HTTP/1.1" 200 4038
+INFO 2023-09-07 22:41:53,899 basehttp 16088 18264 "GET /post/1/ HTTP/1.1" 200 4042
+INFO 2023-09-07 22:48:09,474 autoreload 16088 11532 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:48:10,011 autoreload 14536 2136 Watching for file changes with StatReloader
+INFO 2023-09-07 22:48:12,430 autoreload 14536 2136 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:48:12,976 autoreload 19812 10428 Watching for file changes with StatReloader
+INFO 2023-09-07 22:48:18,388 autoreload 19812 10428 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:48:18,844 autoreload 17032 11384 Watching for file changes with StatReloader
+INFO 2023-09-07 22:48:22,128 autoreload 17032 11384 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:48:22,569 autoreload 14488 20300 Watching for file changes with StatReloader
+INFO 2023-09-07 22:48:25,815 autoreload 14488 20300 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:48:26,274 autoreload 19892 11180 Watching for file changes with StatReloader
+INFO 2023-09-07 22:48:28,498 autoreload 19892 11180 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:48:28,945 autoreload 18240 16524 Watching for file changes with StatReloader
+INFO 2023-09-07 22:48:31,155 autoreload 18240 16524 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:48:31,663 autoreload 10028 7276 Watching for file changes with StatReloader
+INFO 2023-09-07 22:48:45,173 autoreload 10028 7276 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:48:45,699 autoreload 12456 15296 Watching for file changes with StatReloader
+INFO 2023-09-07 22:48:53,051 autoreload 12456 15296 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:48:53,506 autoreload 18544 14148 Watching for file changes with StatReloader
+INFO 2023-09-07 22:49:08,204 autoreload 18544 14148 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:49:08,732 autoreload 11708 9300 Watching for file changes with StatReloader
+INFO 2023-09-07 22:49:14,147 autoreload 11708 9300 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:49:14,717 autoreload 20016 13368 Watching for file changes with StatReloader
+INFO 2023-09-07 22:49:19,141 autoreload 20016 13368 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:49:19,582 autoreload 19048 15540 Watching for file changes with StatReloader
+INFO 2023-09-07 22:49:24,981 autoreload 19048 15540 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:49:25,464 autoreload 13604 21020 Watching for file changes with StatReloader
+INFO 2023-09-07 22:49:29,856 autoreload 13604 21020 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:49:30,334 autoreload 8316 8212 Watching for file changes with StatReloader
+INFO 2023-09-07 22:49:53,241 autoreload 8316 8212 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:49:53,766 autoreload 4260 8908 Watching for file changes with StatReloader
+INFO 2023-09-07 22:50:05,329 autoreload 4260 8908 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:50:05,850 autoreload 11968 7904 Watching for file changes with StatReloader
+INFO 2023-09-07 22:50:20,598 autoreload 11968 7904 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:50:21,052 autoreload 10000 9536 Watching for file changes with StatReloader
+INFO 2023-09-07 22:50:25,519 autoreload 10000 9536 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:50:25,981 autoreload 2924 18596 Watching for file changes with StatReloader
+INFO 2023-09-07 22:50:41,692 autoreload 2924 18596 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:50:42,240 autoreload 20516 19968 Watching for file changes with StatReloader
+INFO 2023-09-07 22:51:11,312 autoreload 20516 19968 C:\Alex\GB\django\les_4\myproject\les_app\forms.py changed, reloading.
+INFO 2023-09-07 22:51:11,940 autoreload 5928 20272 Watching for file changes with StatReloader
+INFO 2023-09-07 22:51:33,838 autoreload 5928 20272 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:51:34,336 autoreload 4380 7144 Watching for file changes with StatReloader
+INFO 2023-09-07 22:51:35,664 autoreload 4380 7144 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:51:36,108 autoreload 11872 8120 Watching for file changes with StatReloader
+INFO 2023-09-07 22:51:38,513 autoreload 11872 8120 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:51:38,993 autoreload 7588 11076 Watching for file changes with StatReloader
+INFO 2023-09-07 22:51:46,484 autoreload 7588 11076 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:51:46,945 autoreload 18696 8888 Watching for file changes with StatReloader
+INFO 2023-09-07 22:51:48,285 autoreload 18696 8888 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:51:48,717 autoreload 15048 18472 Watching for file changes with StatReloader
+INFO 2023-09-07 22:51:58,257 autoreload 15048 18472 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:51:58,758 autoreload 18900 4496 Watching for file changes with StatReloader
+INFO 2023-09-07 22:52:52,313 autoreload 18900 4496 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:52:52,833 autoreload 13412 5472 Watching for file changes with StatReloader
+INFO 2023-09-07 22:53:01,374 autoreload 13412 5472 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:53:01,870 autoreload 13240 10452 Watching for file changes with StatReloader
+INFO 2023-09-07 22:53:16,623 autoreload 13240 10452 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:53:17,076 autoreload 20052 16328 Watching for file changes with StatReloader
+INFO 2023-09-07 22:53:21,567 autoreload 20052 16328 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:53:21,982 autoreload 2420 18540 Watching for file changes with StatReloader
+INFO 2023-09-07 22:53:25,375 autoreload 2420 18540 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:53:25,856 autoreload 19028 9536 Watching for file changes with StatReloader
+INFO 2023-09-07 22:53:27,201 autoreload 19028 9536 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:53:27,729 autoreload 5324 2396 Watching for file changes with StatReloader
+INFO 2023-09-07 22:54:05,079 autoreload 5324 2396 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:54:05,608 autoreload 8456 8468 Watching for file changes with StatReloader
+INFO 2023-09-07 22:54:12,981 autoreload 8456 8468 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:54:13,570 autoreload 8744 11964 Watching for file changes with StatReloader
+INFO 2023-09-07 22:54:23,002 autoreload 8744 11964 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:54:23,458 autoreload 18864 20044 Watching for file changes with StatReloader
+INFO 2023-09-07 22:54:25,706 autoreload 18864 20044 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:54:26,167 autoreload 10260 15660 Watching for file changes with StatReloader
+INFO 2023-09-07 22:54:48,877 autoreload 10260 15660 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:54:49,390 autoreload 9736 7704 Watching for file changes with StatReloader
+INFO 2023-09-07 22:54:54,739 autoreload 9736 7704 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:54:55,179 autoreload 19996 13284 Watching for file changes with StatReloader
+INFO 2023-09-07 22:55:00,498 autoreload 19996 13284 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:55:01,063 autoreload 14584 1072 Watching for file changes with StatReloader
+INFO 2023-09-07 22:55:05,357 autoreload 14584 1072 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:55:05,832 autoreload 15540 16052 Watching for file changes with StatReloader
+INFO 2023-09-07 22:55:09,068 autoreload 15540 16052 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:55:09,520 autoreload 21124 7120 Watching for file changes with StatReloader
+INFO 2023-09-07 22:55:13,838 autoreload 21124 7120 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:55:14,278 autoreload 13064 12816 Watching for file changes with StatReloader
+INFO 2023-09-07 22:55:35,938 autoreload 13064 12816 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:55:36,363 autoreload 9804 20500 Watching for file changes with StatReloader
+INFO 2023-09-07 22:55:39,651 autoreload 9804 20500 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:55:40,094 autoreload 7040 16512 Watching for file changes with StatReloader
+INFO 2023-09-07 22:55:42,337 autoreload 7040 16512 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:55:42,826 autoreload 4304 20776 Watching for file changes with StatReloader
+INFO 2023-09-07 22:55:45,050 autoreload 4304 20776 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:55:45,558 autoreload 13344 18624 Watching for file changes with StatReloader
+INFO 2023-09-07 22:59:09,617 autoreload 13344 18624 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:59:10,191 autoreload 3776 16804 Watching for file changes with StatReloader
+INFO 2023-09-07 22:59:12,644 autoreload 3776 16804 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:59:13,156 autoreload 18188 19660 Watching for file changes with StatReloader
+INFO 2023-09-07 22:59:22,692 autoreload 18188 19660 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:59:23,229 autoreload 9876 17160 Watching for file changes with StatReloader
+INFO 2023-09-07 22:59:33,646 autoreload 9876 17160 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:59:34,186 autoreload 10116 15132 Watching for file changes with StatReloader
+INFO 2023-09-07 22:59:47,695 autoreload 10116 15132 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:59:48,235 autoreload 4496 20112 Watching for file changes with StatReloader
+INFO 2023-09-07 22:59:50,460 autoreload 4496 20112 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:59:50,958 autoreload 3236 20580 Watching for file changes with StatReloader
+INFO 2023-09-07 22:59:54,162 autoreload 3236 20580 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 22:59:54,615 autoreload 10344 20360 Watching for file changes with StatReloader
+INFO 2023-09-07 23:00:10,108 autoreload 10344 20360 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:00:10,597 autoreload 4688 21004 Watching for file changes with StatReloader
+INFO 2023-09-07 23:00:12,823 autoreload 4688 21004 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:00:13,247 autoreload 18652 5476 Watching for file changes with StatReloader
+INFO 2023-09-07 23:00:31,859 autoreload 18652 5476 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:00:32,323 autoreload 9652 4548 Watching for file changes with StatReloader
+INFO 2023-09-07 23:00:33,515 autoreload 9652 4548 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:00:34,010 autoreload 21268 17844 Watching for file changes with StatReloader
+INFO 2023-09-07 23:00:36,235 autoreload 21268 17844 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:00:36,672 autoreload 20340 7252 Watching for file changes with StatReloader
+INFO 2023-09-07 23:00:38,897 autoreload 20340 7252 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:00:39,385 autoreload 11944 16352 Watching for file changes with StatReloader
+INFO 2023-09-07 23:00:52,886 autoreload 11944 16352 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:00:53,402 autoreload 18388 20012 Watching for file changes with StatReloader
+INFO 2023-09-07 23:00:58,720 autoreload 18388 20012 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:00:59,261 autoreload 7080 14084 Watching for file changes with StatReloader
+INFO 2023-09-07 23:01:05,577 autoreload 7080 14084 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:01:06,051 autoreload 14392 14448 Watching for file changes with StatReloader
+INFO 2023-09-07 23:01:07,453 autoreload 14392 14448 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:01:07,943 autoreload 308 21252 Watching for file changes with StatReloader
+INFO 2023-09-07 23:01:12,384 autoreload 308 21252 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:01:12,943 autoreload 17812 13792 Watching for file changes with StatReloader
+INFO 2023-09-07 23:01:16,365 autoreload 17812 13792 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:01:16,920 autoreload 3160 11304 Watching for file changes with StatReloader
+INFO 2023-09-07 23:01:21,343 autoreload 3160 11304 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:01:21,880 autoreload 14404 11716 Watching for file changes with StatReloader
+INFO 2023-09-07 23:01:31,471 autoreload 14404 11716 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:01:31,995 autoreload 20112 9092 Watching for file changes with StatReloader
+INFO 2023-09-07 23:01:35,219 autoreload 20112 9092 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:01:35,689 autoreload 4000 16400 Watching for file changes with StatReloader
+INFO 2023-09-07 23:01:37,005 autoreload 4000 16400 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:01:37,527 autoreload 3680 17928 Watching for file changes with StatReloader
+INFO 2023-09-07 23:01:40,979 autoreload 3680 17928 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:01:41,498 autoreload 14260 9400 Watching for file changes with StatReloader
+INFO 2023-09-07 23:01:49,005 autoreload 14260 9400 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:01:49,495 autoreload 17356 2404 Watching for file changes with StatReloader
+INFO 2023-09-07 23:01:51,921 autoreload 17356 2404 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:01:52,390 autoreload 2724 12448 Watching for file changes with StatReloader
+INFO 2023-09-07 23:02:02,955 autoreload 2724 12448 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:02:03,487 autoreload 3188 8268 Watching for file changes with StatReloader
+INFO 2023-09-07 23:02:09,925 autoreload 3188 8268 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:02:10,424 autoreload 18876 19268 Watching for file changes with StatReloader
+INFO 2023-09-07 23:02:13,186 basehttp 18876 18888 "GET /post/1/ HTTP/1.1" 200 4042
+INFO 2023-09-07 23:02:14,898 basehttp 18876 18888 "GET /post/1/ HTTP/1.1" 200 4042
+INFO 2023-09-07 23:02:17,790 basehttp 18876 18888 "GET / HTTP/1.1" 200 4355
+INFO 2023-09-07 23:02:20,234 basehttp 18876 18888 "GET /author/1/ HTTP/1.1" 200 4038
+INFO 2023-09-07 23:02:21,486 basehttp 18876 18888 "GET /post/1/ HTTP/1.1" 200 4042
+INFO 2023-09-07 23:03:46,872 basehttp 18876 18888 "GET /post/1/ HTTP/1.1" 200 4337
+ERROR 2023-09-07 23:03:50,035 log 18876 18888 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 109, in post_full
+    return render(request, 'les_app/post_full.html', context)
+UnboundLocalError: local variable 'context' referenced before assignment
+ERROR 2023-09-07 23:03:50,039 basehttp 18876 18888 "POST /post/1/ HTTP/1.1" 500 67347
+INFO 2023-09-07 23:04:15,552 autoreload 18876 19268 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:04:16,047 autoreload 16720 16608 Watching for file changes with StatReloader
+INFO 2023-09-07 23:04:17,441 autoreload 16720 16608 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:04:17,944 autoreload 15424 21456 Watching for file changes with StatReloader
+INFO 2023-09-07 23:04:20,338 autoreload 15424 21456 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:04:20,832 autoreload 10452 4088 Watching for file changes with StatReloader
+INFO 2023-09-07 23:04:24,785 basehttp 10452 11556 "GET /post/1/ HTTP/1.1" 200 4337
+ERROR 2023-09-07 23:04:29,311 log 10452 11556 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 109, in post_full
+    return render(request, 'les_app/post_full.html', context)
+UnboundLocalError: local variable 'context' referenced before assignment
+ERROR 2023-09-07 23:04:29,316 basehttp 10452 11556 "POST /post/1/ HTTP/1.1" 500 67350
+INFO 2023-09-07 23:05:05,563 autoreload 10452 4088 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:05:06,089 autoreload 16028 18860 Watching for file changes with StatReloader
+INFO 2023-09-07 23:05:11,426 autoreload 16028 18860 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:05:11,909 autoreload 8268 15444 Watching for file changes with StatReloader
+INFO 2023-09-07 23:05:14,148 autoreload 8268 15444 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:05:14,644 autoreload 16820 16388 Watching for file changes with StatReloader
+INFO 2023-09-07 23:05:18,565 basehttp 16820 18956 "GET /post/1/ HTTP/1.1" 200 4825
+ERROR 2023-09-07 23:05:47,009 log 16820 18956 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: les_app_comment.date_create
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 99, in post_full
+    comment.save()
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: les_app_comment.date_create
+ERROR 2023-09-07 23:05:47,025 basehttp 16820 18956 "POST /post/1/ HTTP/1.1" 500 148404
+INFO 2023-09-07 23:07:08,393 autoreload 16820 16388 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:07:08,972 autoreload 15528 7840 Watching for file changes with StatReloader
+INFO 2023-09-07 23:07:39,097 autoreload 15528 7840 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:07:39,659 autoreload 9992 18708 Watching for file changes with StatReloader
+INFO 2023-09-07 23:07:41,883 autoreload 9992 18708 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:07:42,339 autoreload 6420 10296 Watching for file changes with StatReloader
+INFO 2023-09-07 23:07:48,681 autoreload 6420 10296 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:07:49,148 autoreload 9176 18496 Watching for file changes with StatReloader
+INFO 2023-09-07 23:07:53,391 autoreload 9176 18496 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:07:53,834 autoreload 20088 14020 Watching for file changes with StatReloader
+INFO 2023-09-07 23:07:56,066 autoreload 20088 14020 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:07:56,546 autoreload 7256 14300 Watching for file changes with StatReloader
+INFO 2023-09-07 23:07:58,762 autoreload 7256 14300 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:07:59,273 autoreload 21032 9252 Watching for file changes with StatReloader
+INFO 2023-09-07 23:08:01,508 autoreload 21032 9252 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:08:01,959 autoreload 20500 12828 Watching for file changes with StatReloader
+INFO 2023-09-07 23:08:03,143 autoreload 20500 12828 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:08:03,634 autoreload 11856 10504 Watching for file changes with StatReloader
+INFO 2023-09-07 23:08:04,842 autoreload 11856 10504 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:08:05,316 autoreload 15884 13400 Watching for file changes with StatReloader
+INFO 2023-09-07 23:08:08,697 autoreload 15884 13400 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:08:09,254 autoreload 7252 12144 Watching for file changes with StatReloader
+INFO 2023-09-07 23:08:20,870 autoreload 7252 12144 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:08:21,319 autoreload 16888 13320 Watching for file changes with StatReloader
+INFO 2023-09-07 23:08:46,372 basehttp 16888 14980 "GET /post/1/ HTTP/1.1" 200 4825
+ERROR 2023-09-07 23:09:00,777 log 16888 14980 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 102, in post_full
+    logger.info(f'Созданан комментарий {comment} к статье {post} - {datetime.datetime.now()}')
+UnboundLocalError: local variable 'post' referenced before assignment
+ERROR 2023-09-07 23:09:00,783 basehttp 16888 14980 "POST /post/1/ HTTP/1.1" 500 69307
+INFO 2023-09-07 23:09:27,841 autoreload 16888 13320 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:09:28,302 autoreload 13444 288 Watching for file changes with StatReloader
+INFO 2023-09-07 23:09:29,654 autoreload 13444 288 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:09:30,188 autoreload 14420 10848 Watching for file changes with StatReloader
+INFO 2023-09-07 23:09:33,100 basehttp 14420 3452 "GET /post/1/ HTTP/1.1" 200 5113
+ERROR 2023-09-07 23:09:41,805 log 14420 3452 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 111, in post_full
+    return render(request, 'les_app/post_full.html', context)
+UnboundLocalError: local variable 'context' referenced before assignment
+ERROR 2023-09-07 23:09:41,809 basehttp 14420 3452 "POST /post/1/ HTTP/1.1" 500 67816
+INFO 2023-09-07 23:10:26,332 autoreload 14420 10848 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:10:26,897 autoreload 10172 8420 Watching for file changes with StatReloader
+INFO 2023-09-07 23:10:29,959 basehttp 10172 13368 "GET /post/1/ HTTP/1.1" 200 5371
+ERROR 2023-09-07 23:10:35,220 log 10172 13368 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 103, in post_full
+    return render(request, 'les_app/sucsess.html', {'title': 'Запись добавлена', 'type': 'комментарий', 'content': post})
+UnboundLocalError: local variable 'post' referenced before assignment
+ERROR 2023-09-07 23:10:35,225 basehttp 10172 13368 "POST /post/1/ HTTP/1.1" 500 69292
+INFO 2023-09-07 23:11:22,105 autoreload 10172 8420 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:11:22,557 autoreload 6816 1584 Watching for file changes with StatReloader
+INFO 2023-09-07 23:11:23,930 autoreload 6816 1584 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:11:24,453 autoreload 16084 15288 Watching for file changes with StatReloader
+ERROR 2023-09-07 23:11:27,819 log 16084 17916 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 101, in post_full
+    comment.save()
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1821, in execute_sql
+    for sql, params in self.as_sql():
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1745, in as_sql
+    value_rows = [
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1746, in <listcomp>
+    [
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1747, in <listcomp>
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1686, in prepare_value
+    return field.get_db_prep_save(value, connection=self.connection)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 954, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 1469, in get_db_prep_value
+    value = self.get_prep_value(value)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 1464, in get_prep_value
+    return self.to_python(value)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 1420, in to_python
+    parsed = parse_date(value)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\utils\dateparse.py", line 74, in parse_date
+    return datetime.date.fromisoformat(value)
+TypeError: fromisoformat: argument must be str
+ERROR 2023-09-07 23:11:27,834 basehttp 16084 17916 "POST /post/1/ HTTP/1.1" 500 142424
+INFO 2023-09-07 23:11:32,657 basehttp 16084 17916 "GET /post/1/ HTTP/1.1" 200 5629
+ERROR 2023-09-07 23:11:38,501 log 16084 17916 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 101, in post_full
+    comment.save()
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1821, in execute_sql
+    for sql, params in self.as_sql():
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1745, in as_sql
+    value_rows = [
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1746, in <listcomp>
+    [
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1747, in <listcomp>
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1686, in prepare_value
+    return field.get_db_prep_save(value, connection=self.connection)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 954, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 1469, in get_db_prep_value
+    value = self.get_prep_value(value)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 1464, in get_prep_value
+    return self.to_python(value)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 1420, in to_python
+    parsed = parse_date(value)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\utils\dateparse.py", line 74, in parse_date
+    return datetime.date.fromisoformat(value)
+TypeError: fromisoformat: argument must be str
+ERROR 2023-09-07 23:11:38,517 basehttp 16084 17916 "POST /post/1/ HTTP/1.1" 500 142424
+INFO 2023-09-07 23:11:45,782 autoreload 16084 15288 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:11:46,296 autoreload 10244 19916 Watching for file changes with StatReloader
+INFO 2023-09-07 23:11:48,638 autoreload 10244 19916 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:11:49,157 autoreload 15124 15388 Watching for file changes with StatReloader
+INFO 2023-09-07 23:12:16,217 autoreload 15124 15388 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:12:16,694 autoreload 8072 17864 Watching for file changes with StatReloader
+INFO 2023-09-07 23:13:19,394 basehttp 8072 7120 "GET /post/1/ HTTP/1.1" 200 5629
+INFO 2023-09-07 23:15:04,871 basehttp 8072 7120 "GET /post/1/ HTTP/1.1" 200 5767
+INFO 2023-09-07 23:15:43,521 basehttp 8072 7120 "GET /post/1/ HTTP/1.1" 200 5806
+INFO 2023-09-07 23:15:45,075 basehttp 8072 7120 "GET /post/1/ HTTP/1.1" 200 5806
+INFO 2023-09-07 23:15:46,508 basehttp 8072 7120 "GET /post/1/ HTTP/1.1" 200 5806
+ERROR 2023-09-07 23:15:55,059 log 8072 7120 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 103, in post_full
+    return render(request, 'les_app/sucsess.html', {'title': 'Запись добавлена', 'type': 'комментарий', 'content': post})
+UnboundLocalError: local variable 'post' referenced before assignment
+ERROR 2023-09-07 23:15:55,065 basehttp 8072 7120 "POST /post/1/ HTTP/1.1" 500 69320
+INFO 2023-09-07 23:16:05,730 basehttp 8072 7120 "GET /post/1/ HTTP/1.1" 200 6128
+INFO 2023-09-07 23:16:45,435 basehttp 8072 7120 "GET /post/1/ HTTP/1.1" 200 6156
+INFO 2023-09-07 23:17:43,788 basehttp 8072 7120 "GET /post/1/ HTTP/1.1" 200 6212
+INFO 2023-09-07 23:18:05,156 autoreload 8072 17864 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:18:05,688 autoreload 16960 9080 Watching for file changes with StatReloader
+INFO 2023-09-07 23:18:08,303 basehttp 16960 16744 "GET /post/1/ HTTP/1.1" 200 6212
+ERROR 2023-09-07 23:18:20,192 log 16960 16744 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 111, in post_full
+    return render(request, 'les_app/post_full.html', context)
+UnboundLocalError: local variable 'context' referenced before assignment
+ERROR 2023-09-07 23:18:20,198 basehttp 16960 16744 "POST /post/1/ HTTP/1.1" 500 68445
+INFO 2023-09-07 23:18:51,094 basehttp 16960 16744 "GET /post/1/ HTTP/1.1" 200 6857
+INFO 2023-09-07 23:19:12,372 autoreload 16960 9080 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:19:12,894 autoreload 8996 5472 Watching for file changes with StatReloader
+INFO 2023-09-07 23:19:14,236 autoreload 8996 5472 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:19:14,741 autoreload 17072 19124 Watching for file changes with StatReloader
+INFO 2023-09-07 23:19:16,145 autoreload 17072 19124 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:19:16,650 autoreload 11524 16356 Watching for file changes with StatReloader
+ERROR 2023-09-07 23:19:20,154 log 11524 20548 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 111, in post_full
+    return redirect(request, 'les_app/post_full.html', context)
+UnboundLocalError: local variable 'context' referenced before assignment
+ERROR 2023-09-07 23:19:20,161 basehttp 11524 20548 "POST /post/1/ HTTP/1.1" 500 67816
+INFO 2023-09-07 23:20:53,835 autoreload 11524 16356 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:20:54,448 autoreload 15904 7160 Watching for file changes with StatReloader
+INFO 2023-09-07 23:20:57,678 autoreload 15904 7160 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:20:58,109 autoreload 12204 16088 Watching for file changes with StatReloader
+INFO 2023-09-07 23:21:10,718 autoreload 12204 16088 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:21:11,233 autoreload 7196 4436 Watching for file changes with StatReloader
+INFO 2023-09-07 23:21:12,572 autoreload 7196 4436 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:21:13,073 autoreload 20092 19140 Watching for file changes with StatReloader
+INFO 2023-09-07 23:21:16,312 autoreload 20092 19140 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:21:16,799 autoreload 9252 16536 Watching for file changes with StatReloader
+INFO 2023-09-07 23:21:42,845 autoreload 9252 16536 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:21:43,396 autoreload 13504 8728 Watching for file changes with StatReloader
+INFO 2023-09-07 23:21:47,829 autoreload 13504 8728 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:21:48,418 autoreload 2404 2988 Watching for file changes with StatReloader
+INFO 2023-09-07 23:22:02,089 autoreload 2404 2988 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:22:02,608 autoreload 18264 3872 Watching for file changes with StatReloader
+ERROR 2023-09-07 23:22:06,474 log 18264 14072 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 111, in post_full
+    return redirect(request, 'les_app/post_full.html', {'post': post, 'comments': comments, 'form': form})
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '<WSGIRequest: GET '/post/1/'>' not found. '<WSGIRequest: GET '/post/1/'>' is not a valid view function or pattern name.
+ERROR 2023-09-07 23:22:06,485 basehttp 18264 14072 "GET /post/1/ HTTP/1.1" 500 88493
+ERROR 2023-09-07 23:22:09,115 log 18264 14072 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 111, in post_full
+    return redirect(request, 'les_app/post_full.html', {'post': post, 'comments': comments, 'form': form})
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '<WSGIRequest: GET '/post/1/'>' not found. '<WSGIRequest: GET '/post/1/'>' is not a valid view function or pattern name.
+ERROR 2023-09-07 23:22:09,122 basehttp 18264 14072 "GET /post/1/ HTTP/1.1" 500 88630
+INFO 2023-09-07 23:23:04,706 autoreload 18264 3872 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:23:05,199 autoreload 1720 16304 Watching for file changes with StatReloader
+ERROR 2023-09-07 23:23:13,020 log 1720 18420 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 110, in post_full
+    return redirect(request, 'les_app/post_full.html', {'post': post, 'comments': comments, 'form': form})
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '<WSGIRequest: GET '/post/1/'>' not found. '<WSGIRequest: GET '/post/1/'>' is not a valid view function or pattern name.
+ERROR 2023-09-07 23:23:13,030 basehttp 1720 18420 "GET /post/1/ HTTP/1.1" 500 88688
+INFO 2023-09-07 23:23:19,298 basehttp 1720 18420 "GET / HTTP/1.1" 200 4355
+INFO 2023-09-07 23:23:21,762 basehttp 1720 18420 "GET /author/1/ HTTP/1.1" 200 4038
+ERROR 2023-09-07 23:23:23,408 log 1720 18420 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 110, in post_full
+    return redirect(request, 'les_app/post_full.html', {'post': post, 'comments': comments, 'form': form})
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '<WSGIRequest: GET '/post/1/'>' not found. '<WSGIRequest: GET '/post/1/'>' is not a valid view function or pattern name.
+ERROR 2023-09-07 23:23:23,416 basehttp 1720 18420 "GET /post/1/ HTTP/1.1" 500 88711
+INFO 2023-09-07 23:24:21,983 autoreload 1720 16304 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:24:22,517 autoreload 15904 912 Watching for file changes with StatReloader
+INFO 2023-09-07 23:24:25,975 autoreload 15904 912 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:24:26,486 autoreload 8688 21012 Watching for file changes with StatReloader
+INFO 2023-09-07 23:24:27,796 autoreload 8688 21012 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:24:28,297 autoreload 11512 10708 Watching for file changes with StatReloader
+INFO 2023-09-07 23:24:38,936 autoreload 11512 10708 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:24:39,487 autoreload 13352 3160 Watching for file changes with StatReloader
+INFO 2023-09-07 23:24:44,946 autoreload 13352 3160 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:24:45,408 autoreload 5852 19228 Watching for file changes with StatReloader
+INFO 2023-09-07 23:24:48,795 autoreload 5852 19228 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:24:49,334 autoreload 15692 17804 Watching for file changes with StatReloader
+INFO 2023-09-07 23:24:50,492 autoreload 15692 17804 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:24:50,967 autoreload 13504 15732 Watching for file changes with StatReloader
+INFO 2023-09-07 23:24:54,227 autoreload 13504 15732 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:24:54,697 autoreload 16588 5204 Watching for file changes with StatReloader
+INFO 2023-09-07 23:24:55,899 autoreload 16588 5204 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:24:56,366 autoreload 20288 11584 Watching for file changes with StatReloader
+INFO 2023-09-07 23:24:58,577 autoreload 20288 11584 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:24:59,027 autoreload 12232 11504 Watching for file changes with StatReloader
+ERROR 2023-09-07 23:25:01,627 log 12232 2092 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 110, in post_full
+    return redirect(request, 'les_app/post_full.html', {'post': post, 'comments': comments, 'form': form})
+UnboundLocalError: local variable 'post' referenced before assignment
+ERROR 2023-09-07 23:25:01,635 basehttp 12232 2092 "GET /post/1/ HTTP/1.1" 500 67060
+INFO 2023-09-07 23:25:08,770 autoreload 12232 11504 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:25:09,308 autoreload 18144 10824 Watching for file changes with StatReloader
+INFO 2023-09-07 23:25:12,521 autoreload 18144 10824 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:25:13,083 autoreload 19084 14572 Watching for file changes with StatReloader
+INFO 2023-09-07 23:25:14,265 autoreload 19084 14572 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:25:14,791 autoreload 19656 14712 Watching for file changes with StatReloader
+ERROR 2023-09-07 23:25:15,723 log 19656 20116 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 114, in post_full
+    return redirect(request, 'les_app/post_full.html', {'post': post, 'comments': comments, 'form': form})
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '<WSGIRequest: GET '/post/1/'>' not found. '<WSGIRequest: GET '/post/1/'>' is not a valid view function or pattern name.
+ERROR 2023-09-07 23:25:15,734 basehttp 19656 20116 "GET /post/1/ HTTP/1.1" 500 88568
+INFO 2023-09-07 23:25:33,584 autoreload 19656 14712 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:25:34,041 autoreload 16048 16672 Watching for file changes with StatReloader
+INFO 2023-09-07 23:25:35,374 autoreload 16048 16672 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:25:35,852 autoreload 20036 600 Watching for file changes with StatReloader
+INFO 2023-09-07 23:25:37,188 autoreload 20036 600 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:25:37,782 autoreload 8768 11236 Watching for file changes with StatReloader
+ERROR 2023-09-07 23:25:39,091 log 8768 15924 Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 111, in post_full
+    return redirect(request, 'les_app/post_full.html', {'post': post, 'comments': comments, 'form': form})
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '<WSGIRequest: GET '/post/1/'>' not found. '<WSGIRequest: GET '/post/1/'>' is not a valid view function or pattern name.
+ERROR 2023-09-07 23:25:39,104 basehttp 8768 15924 "GET /post/1/ HTTP/1.1" 500 88630
+INFO 2023-09-07 23:25:58,865 autoreload 8768 11236 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:25:59,379 autoreload 1120 13288 Watching for file changes with StatReloader
+INFO 2023-09-07 23:26:07,535 basehttp 1120 16388 "GET /post/2 HTTP/1.1" 301 0
+ERROR 2023-09-07 23:26:07,598 log 1120 19244 Internal Server Error: /post/2/
+Traceback (most recent call last):
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Alex\GB\django\les_4\myproject\les_app\views.py", line 111, in post_full
+    return redirect(request, 'les_app/post_full.html', {'post': post, 'comments': comments, 'form': form})
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Alex\GB\django\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '<WSGIRequest: GET '/post/2/'>' not found. '<WSGIRequest: GET '/post/2/'>' is not a valid view function or pattern name.
+ERROR 2023-09-07 23:26:07,603 basehttp 1120 19244 "GET /post/2/ HTTP/1.1" 500 85943
+INFO 2023-09-07 23:26:26,768 autoreload 1120 13288 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:26:27,255 autoreload 9848 17776 Watching for file changes with StatReloader
+INFO 2023-09-07 23:26:30,673 autoreload 9848 17776 C:\Alex\GB\django\les_4\myproject\les_app\views.py changed, reloading.
+INFO 2023-09-07 23:26:31,303 autoreload 12204 11512 Watching for file changes with StatReloader
+INFO 2023-09-07 23:26:32,547 basehttp 12204 5328 "GET /post/2/ HTTP/1.1" 200 4670
+INFO 2023-09-07 23:26:41,306 basehttp 12204 5328 "POST /post/2/ HTTP/1.1" 200 5052
+INFO 2023-09-07 23:26:53,698 basehttp 12204 5328 "POST /post/2/ HTTP/1.1" 200 5418
+INFO 2023-09-07 23:27:27,575 basehttp 12204 5328 - Broken pipe from ('127.0.0.1', 49909)
+INFO 2023-09-07 23:27:27,578 basehttp 12204 13308 - Broken pipe from ('127.0.0.1', 49910)

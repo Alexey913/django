@@ -15,11 +15,11 @@ class Author(models.Model):
 class Post(models.Model):
     title = models.CharField(max_length=200)
     post_body = models.TextField()
-    date_publication = models.DateField(auto_now=True)
+    date_publication = models.DateField()
     author = models.ForeignKey(Author, on_delete=models.CASCADE)
     category = models.CharField(max_length=100, default='post')
     count_view = models.IntegerField(default=0)
-    publication = models.BooleanField(default=False)
+    publication = models.BooleanField(default=True)
 
     def __str__(self) -> str:
         return f'{self.title}'
