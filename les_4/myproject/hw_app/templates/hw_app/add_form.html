@@ -1,4 +1,4 @@
-{% extends 'les_app/base.html' %}
+{% extends 'hw_app/base.html' %}
 
 
 {% block title %}
@@ -6,7 +6,7 @@
 {% endblock %}
 
 {% block content %}
-<h1> Выбирай </h1>
+<h1> {{ title }} </h1>
     <form method="post">
         {% csrf_token %}
         {{ form.as_p }}

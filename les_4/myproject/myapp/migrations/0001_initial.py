@@ -33,7 +33,7 @@ class Migration(migrations.Migration):
                 ('category', models.CharField(default='post', max_length=100)),
                 ('count_view', models.IntegerField(default=0)),
                 ('publication', models.BooleanField(default=False)),
-                ('author', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='les_app.author')),
+                ('author', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='myapp.author')),
             ],
         ),
         migrations.CreateModel(
@@ -43,8 +43,8 @@ class Migration(migrations.Migration):
                 ('comment', models.TextField()),
                 ('date_create', models.DateField()),
                 ('date_change', models.DateField()),
-                ('author', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='les_app.author')),
-                ('post', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='les_app.post')),
+                ('author', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='myapp.author')),
+                ('post', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='myapp.post')),
             ],
         ),
     ]

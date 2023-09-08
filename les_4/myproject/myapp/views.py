@@ -19,7 +19,7 @@ def rand_form(request):
             return rand(request, kind=kind, count=count_tries)
     else:
         form = RandForm()
-    return render(request, 'les_app/rand_form.html', {'form': form})
+    return render(request, 'myapp/rand_form.html', {'form': form})
 
 
 def rand(request, kind, count):
@@ -37,7 +37,7 @@ def rand(request, kind, count):
         result = {i: f'=={rnd(1, 100)}==' for i in range(1, count+1)}
         logger.info(f'Случайное число - {datetime.datetime.now()}')
     context = {'title': res_kind, 'result': result}
-    return render(request, 'les_app/rand_result.html', context)
+    return render(request, 'myapp/rand_result.html', context)
 
 
 def create_author(request):
@@ -52,10 +52,10 @@ def create_author(request):
                             )
             author.save()
             logger.info(f'Создан автор {author} - {datetime.datetime.now()}')
-            return render(request, 'les_app/sucsess.html', {'title': 'Запись добавлена', 'type': 'автор', 'content': author})
+            return render(request, 'myapp/sucsess.html', {'title': 'Запись добавлена', 'type': 'автор', 'content': author})
     else:
         form = AuthorForm()
-    return render(request, 'les_app/add_form.html', {'form': form, 'title': 'Добавить автора'})
+    return render(request, 'myapp/add_form.html', {'form': form, 'title': 'Добавить автора'})
 
 
 def create_post(request):
@@ -71,21 +71,21 @@ def create_post(request):
                         )
             post.save()
             logger.info(f'Созданана статья {post} - {datetime.datetime.now()}')
-            return render(request, 'les_app/sucsess.html', {'title': 'Запись добавлена', 'type': 'статья', 'content': post})
+            return render(request, 'myapp/sucsess.html', {'title': 'Запись добавлена', 'type': 'статья', 'content': post})
     else:
         form = PostForm()
-    return render(request, 'les_app/add_form.html', {'form': form, 'title': 'Добавить статью'})
+    return render(request, 'myapp/add_form.html', {'form': form, 'title': 'Добавить статью'})
 
 
 def index(request):
     authors = Author.objects.all()
-    return render(request, 'les_app/author_list.html', {'authors': authors})
+    return render(request, 'myapp/author_list.html', {'authors': authors})
 
 
 def author_posts(request, author_id):
     author = get_object_or_404(Author, pk=author_id)
     posts = Post.objects.filter(author=author)
-    return render(request, 'les_app/author_posts.html', {'author': author, 'posts': posts})
+    return render(request, 'myapp/author_posts.html', {'author': author, 'posts': posts})
 
 
 def post_full(request, post_id):
@@ -104,8 +104,8 @@ def post_full(request, post_id):
                               )
             comment.save()
             logger.info(f'Созданан комментарий {comment} к статье {comment.post} - {datetime.datetime.now()}')
-            # return render(request, 'les_app/sucsess.html', {'title': 'Запись добавлена', 'type': 'комментарий', 'content': post})
+            # return render(request, 'myapp/sucsess.html', {'title': 'Запись добавлена', 'type': 'комментарий', 'content': post})
     else:
         form = CommentForm()
         
-    return render(request, 'les_app/post_full.html', {'post': post, 'comments': comments, 'form': form})
+    return render(request, 'myapp/post_full.html', {'post': post, 'comments': comments, 'form': form})
