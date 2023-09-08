@@ -18,6 +18,8 @@ class Goods(models.Model):
     price = models.DecimalField(max_digits=10, decimal_places=2)
     quantity = models.IntegerField()
     date_adding = models.DateField(default=timezone.now)
+    image = models.ImageField(name=title, blank=True)
+
 
     def __str__(self) -> str:
         return f'{self.title}'
