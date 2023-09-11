@@ -6,6 +6,8 @@ class AuthorAdmin(admin.ModelAdmin):
     list_display = ['name', 'surname', 'birthday']
     ordering = ['surname', 'birthday']
     list_filter = ['name', 'surname']
+    fields = ['name', 'surname', 'birthday', 'email', 'biography']
+    readonly_fields = ['name', 'surname', 'birthday']
 
 @admin.action(description="Обновить дату публикации")
 def update_date_publication(modeladmin, request, queryset):
