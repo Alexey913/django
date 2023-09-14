@@ -5713,3 +5713,39 @@ INFO 2023-09-11 22:49:54,391 basehttp 16432 16708 "GET /admin/jsi18n/ HTTP/1.1" 
 INFO 2023-09-11 22:50:05,449 basehttp 16432 16708 "POST /admin/hw_app/order/?o=1.3.-2.-4 HTTP/1.1" 302 0
 INFO 2023-09-11 22:50:05,479 basehttp 16432 16708 "GET /admin/hw_app/order/?o=1.3.-2.-4 HTTP/1.1" 200 21664
 INFO 2023-09-11 22:50:05,586 basehttp 16432 16708 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-14 11:27:07,061 autoreload 13708 6952 Watching for file changes with StatReloader
+INFO 2023-09-14 11:27:29,321 basehttp 13708 3444 "GET / HTTP/1.1" 200 4438
+INFO 2023-09-14 11:27:29,442 basehttp 13708 1800 - Broken pipe from ('127.0.0.1', 59862)
+INFO 2023-09-14 11:27:38,613 basehttp 13708 8160 "GET /client/1/ HTTP/1.1" 200 10661
+WARNING 2023-09-14 11:27:47,723 log 13708 2432 Not Found: /favicon.ico
+WARNING 2023-09-14 11:27:47,728 basehttp 13708 2432 "GET /favicon.ico HTTP/1.1" 404 4747
+WARNING 2023-09-14 11:27:47,728 log 13708 3444 Not Found: /favicon.ico
+WARNING 2023-09-14 11:27:47,738 basehttp 13708 3444 "GET /favicon.ico HTTP/1.1" 404 4747
+INFO 2023-09-14 11:27:49,431 basehttp 13708 2432 - Broken pipe from ('127.0.0.1', 59880)
+INFO 2023-09-14 11:30:55,286 autoreload 1856 11764 Watching for file changes with StatReloader
+INFO 2023-09-14 11:48:11,411 autoreload 9856 11544 Watching for file changes with StatReloader
+WARNING 2023-09-14 11:48:44,968 log 9856 12508 Not Found: /author
+WARNING 2023-09-14 11:48:44,973 basehttp 9856 12508 "GET /author HTTP/1.1" 404 4732
+INFO 2023-09-14 11:48:46,470 basehttp 9856 12508 - Broken pipe from ('127.0.0.1', 60310)
+INFO 2023-09-14 11:48:46,472 basehttp 9856 11732 - Broken pipe from ('127.0.0.1', 60309)
+INFO 2023-09-14 11:49:11,557 basehttp 9856 8032 "GET /index HTTP/1.1" 200 3760
+INFO 2023-09-14 11:49:16,446 basehttp 9856 8032 - Broken pipe from ('127.0.0.1', 60320)
+INFO 2023-09-14 11:49:16,446 basehttp 9856 9744 - Broken pipe from ('127.0.0.1', 60319)
+INFO 2023-09-14 11:49:26,592 basehttp 9856 4200 - Broken pipe from ('127.0.0.1', 60328)
+INFO 2023-09-14 11:49:42,609 basehttp 9856 10680 "GET /create_author HTTP/1.1" 301 0
+INFO 2023-09-14 11:49:43,270 basehttp 9856 8480 "GET /create_author/ HTTP/1.1" 200 4794
+INFO 2023-09-14 11:49:46,509 basehttp 9856 8480 - Broken pipe from ('127.0.0.1', 60337)
+INFO 2023-09-14 11:51:22,053 basehttp 9856 5712 "GET /create_author/ HTTP/1.1" 200 4790
+INFO 2023-09-14 11:51:26,596 basehttp 9856 10332 - Broken pipe from ('127.0.0.1', 60362)
+INFO 2023-09-14 11:51:26,601 basehttp 9856 5712 - Broken pipe from ('127.0.0.1', 60363)
+INFO 2023-09-14 11:51:36,218 basehttp 9856 3048 "GET /create_post/ HTTP/1.1" 200 4836
+INFO 2023-09-14 11:51:36,867 basehttp 9856 3048 - Broken pipe from ('127.0.0.1', 60373)
+INFO 2023-09-14 11:52:14,894 autoreload 9856 11544 D:\Python\django\les_5\myproject\myapp\forms.py changed, reloading.
+INFO 2023-09-14 11:52:52,264 autoreload 3856 10112 Watching for file changes with StatReloader
+INFO 2023-09-14 11:53:19,642 autoreload 3856 10112 D:\Python\django\les_5\myproject\hw_app\forms.py changed, reloading.
+INFO 2023-09-14 11:53:27,948 autoreload 4808 12108 Watching for file changes with StatReloader
+INFO 2023-09-14 11:53:39,657 autoreload 4808 12108 D:\Python\django\les_5\myproject\hw_app\forms.py changed, reloading.
+INFO 2023-09-14 11:53:49,144 autoreload 10812 7704 Watching for file changes with StatReloader
+INFO 2023-09-14 11:53:55,190 autoreload 10812 7704 D:\Python\django\les_5\myproject\hw_app\forms.py changed, reloading.
+INFO 2023-09-14 11:56:43,453 autoreload 12204 14172 Watching for file changes with StatReloader
+INFO 2023-09-14 14:37:58,663 autoreload 3500 5880 Watching for file changes with StatReloader
